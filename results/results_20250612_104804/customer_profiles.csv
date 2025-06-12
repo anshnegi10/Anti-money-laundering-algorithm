@@ -1,0 +1,1001 @@
+customer_id,name,age,nationality,occupation,account_opening_date,pep_status,sanctions_match,address_change_count
+CUST000001,Allison Hill,69,Malawi,Accountant,2021-12-13,0,0,1
+CUST000002,Noah Rhodes,32,Curaçao,Engineer,2023-11-21,0,0,2
+CUST000003,Angie Henderson,89,Indonesia,Consultant,2018-04-12,0,0,4
+CUST000004,Daniel Wagner,78,Sri Lanka,Manager,2018-12-15,0,0,0
+CUST000005,Cristian Santos,38,"Bolivia, Plurinational State of",Manager,2019-06-11,0,0,3
+CUST000006,Connie Lawrence,41,Armenia,Government Employee,2021-04-26,0,0,4
+CUST000007,Abigail Shaffer,20,San Marino,Doctor,2022-02-24,0,0,4
+CUST000008,Gina Moore,39,Sweden,Teacher,2012-03-20,0,0,2
+CUST000009,Gabrielle Davis,70,Iceland,Business Owner,2022-07-01,0,0,2
+CUST000010,Ryan Munoz,19,Niger,Business Owner,2011-03-16,1,0,1
+CUST000011,Monica Herrera,47,Kuwait,Financial Analyst,2014-12-26,0,0,2
+CUST000012,Jamie Arnold,55,Trinidad and Tobago,Engineer,2023-09-26,0,0,1
+CUST000013,Lisa Hensley,19,Gambia,Sales Representative,2023-10-12,0,0,2
+CUST000014,Michele Williams,81,Curaçao,Government Employee,2022-05-07,0,0,1
+CUST000015,Dylan Miller,77,Tajikistan,Sales Representative,2019-07-18,0,0,2
+CUST000016,Brian Ramirez,38,"Bolivia, Plurinational State of",Student,2019-03-26,0,0,3
+CUST000017,Holly Wood,50,Palau,Researcher,2013-02-11,0,0,0
+CUST000018,Derek Zuniga,75,Latvia,Lawyer,2010-12-12,0,0,3
+CUST000019,Lisa Jackson,39,Guatemala,Financial Analyst,2023-11-08,0,0,1
+CUST000020,Carla Gray,66,United Arab Emirates,Financial Analyst,2011-11-11,0,0,3
+CUST000021,Margaret Hawkins DDS,76,Algeria,Consultant,2019-12-28,0,0,1
+CUST000022,Patty Perez,59,Cayman Islands,Retired,2012-03-23,0,0,1
+CUST000023,Ethan Adams,77,South Africa,Teacher,2015-01-15,0,0,4
+CUST000024,Tommy Walter,32,Egypt,Accountant,2019-07-04,0,0,0
+CUST000025,Matthew Foster,79,Turks and Caicos Islands,IT Professional,2014-05-17,0,0,3
+CUST000026,Judy Baker,79,Syrian Arab Republic,Unemployed,2011-03-26,0,0,1
+CUST000027,Justin Baker,64,Qatar,Retired,2018-03-18,0,0,1
+CUST000028,Stephanie Ross,79,Ethiopia,Researcher,2024-04-20,0,0,1
+CUST000029,Zachary Hicks,68,Cuba,Retired,2020-11-13,0,0,1
+CUST000030,Anthony Rodriguez,72,Zimbabwe,Government Employee,2014-12-20,0,0,1
+CUST000031,Rebecca Henderson,81,"Venezuela, Bolivarian Republic of",IT Professional,2016-10-25,0,0,0
+CUST000032,James Ferrell,20,"Taiwan, Province of China",Manager,2018-03-20,0,0,0
+CUST000033,Tricia Valencia,68,Egypt,Engineer,2020-12-17,1,0,0
+CUST000034,Nathan Maldonado,24,Comoros,Business Owner,2019-08-15,0,0,5
+CUST000035,Debra Davidson,38,Hong Kong,Student,2016-11-24,0,0,4
+CUST000036,Jeffrey Chavez,90,Greenland,Sales Representative,2022-02-26,0,0,1
+CUST000037,Sherri Baker,56,"Venezuela, Bolivarian Republic of",Consultant,2022-05-15,0,0,2
+CUST000038,Cassandra Gaines,35,United Arab Emirates,Government Employee,2015-12-05,0,0,1
+CUST000039,Elizabeth Fowler,21,Niger,Engineer,2022-04-12,0,0,2
+CUST000040,Brittany Farmer,77,Brunei Darussalam,Manager,2016-05-25,0,0,3
+CUST000041,Paula Moreno,31,Guyana,Unemployed,2016-09-25,0,0,4
+CUST000042,Fred Smith,26,Guinea-Bissau,Accountant,2010-11-28,0,0,1
+CUST000043,Sherry Decker,70,"Micronesia, Federated States of",Student,2018-07-08,0,0,2
+CUST000044,Anthony Humphrey,19,"Bolivia, Plurinational State of",Government Employee,2023-06-23,0,0,0
+CUST000045,Angelica Tucker,77,Cambodia,Manager,2014-02-22,0,0,5
+CUST000046,Philip Cannon,88,Cameroon,Consultant,2012-06-03,0,0,0
+CUST000047,John Pierce,61,United States,Business Owner,2021-08-25,0,0,2
+CUST000048,Shane Henderson,25,Marshall Islands,Financial Analyst,2015-12-17,0,0,2
+CUST000049,Joshua Blair,64,South Georgia and the South Sandwich Islands,Business Owner,2022-09-06,0,0,2
+CUST000050,Eric Carney,52,Wallis and Futuna,Government Employee,2012-01-25,0,0,0
+CUST000051,Jessica Holmes,53,Nicaragua,Business Owner,2017-11-15,0,0,4
+CUST000052,Danny Morgan,67,"Korea, Democratic People's Republic of",Engineer,2010-07-30,0,0,0
+CUST000053,Crystal Robinson,21,Sint Maarten (Dutch part),Engineer,2016-05-03,0,0,2
+CUST000054,Mark Perez,19,Maldives,Sales Representative,2011-07-02,0,0,0
+CUST000055,Shannon Jones,23,Timor-Leste,Government Employee,2020-02-19,0,0,1
+CUST000056,Michael Lewis,71,Curaçao,Sales Representative,2022-11-21,0,0,1
+CUST000057,Timothy Duncan,21,Peru,Government Employee,2023-06-03,0,0,1
+CUST000058,Richard Aguirre,71,Slovenia,Financial Analyst,2019-05-04,0,0,0
+CUST000059,Brent Jordan,80,Andorra,Financial Analyst,2017-12-16,0,0,0
+CUST000060,John Daniel,35,Fiji,Accountant,2022-08-29,0,0,1
+CUST000061,Victoria Garcia,61,Andorra,Government Employee,2019-03-24,0,0,2
+CUST000062,Gerald Hensley,51,New Caledonia,Consultant,2022-03-08,0,0,3
+CUST000063,Connor West,79,Northern Mariana Islands,Researcher,2015-12-04,0,0,0
+CUST000064,Donald Wright,31,Guinea,Student,2018-03-19,0,0,1
+CUST000065,Jessica Callahan,65,Malta,Doctor,2014-04-12,0,0,0
+CUST000066,Amber Kidd,32,Italy,IT Professional,2016-04-07,0,0,0
+CUST000067,Tracy House,89,Lao People's Democratic Republic,Doctor,2020-10-19,0,0,2
+CUST000068,Carol Tucker,79,Malta,Manager,2016-02-23,0,0,2
+CUST000069,James Brown,57,Bhutan,Financial Analyst,2016-06-24,0,0,0
+CUST000070,William Baker,70,Belarus,Business Owner,2019-10-01,0,0,0
+CUST000071,Jordan Henderson,41,Réunion,Student,2018-06-17,0,0,0
+CUST000072,Whitney Peters,43,Guernsey,Retired,2022-11-06,0,0,3
+CUST000073,Brittney Phillips,77,Afghanistan,Researcher,2010-10-14,0,0,5
+CUST000074,Lauren Daniels,58,Saint Lucia,Engineer,2020-08-11,0,0,0
+CUST000075,Amy Silva,46,"Congo, The Democratic Republic of the",Lawyer,2012-06-20,1,0,0
+CUST000076,Sarah Moore,32,"Saint Helena, Ascension and Tristan da Cunha",Teacher,2018-12-16,0,0,3
+CUST000077,Angela Lopez,62,Myanmar,Accountant,2020-10-13,0,0,4
+CUST000078,Megan Young,82,American Samoa,Business Owner,2014-01-30,0,0,1
+CUST000079,Steve Sanchez,88,Uruguay,Business Owner,2015-12-09,0,0,0
+CUST000080,Lisa Barnes,26,Liechtenstein,Consultant,2018-05-24,0,0,0
+CUST000081,Kelly Donovan,18,Singapore,Business Owner,2011-12-16,0,0,1
+CUST000082,Mike Allen,25,Syrian Arab Republic,Engineer,2019-07-10,0,0,1
+CUST000083,Michael Evans,80,Kyrgyzstan,Engineer,2017-03-05,0,0,0
+CUST000084,Paul Jones,28,"Moldova, Republic of",Teacher,2023-03-12,0,0,1
+CUST000085,Zachary Ferrell,25,Benin,IT Professional,2019-04-24,0,0,0
+CUST000086,Daniel Baker,52,Åland Islands,Government Employee,2023-09-24,0,0,2
+CUST000087,Shirley Suarez,52,Bouvet Island,Retired,2017-05-16,0,0,1
+CUST000088,Christopher Bass,50,Niue,Student,2015-06-14,0,0,0
+CUST000089,Lisa Archer,22,Turkmenistan,Business Owner,2018-06-11,0,0,1
+CUST000090,Aimee Montoya,58,Saint Martin (French part),Doctor,2022-12-18,0,0,1
+CUST000091,Matthew Mcmillan,45,Tunisia,Sales Representative,2019-09-19,0,0,5
+CUST000092,Brian Rodriguez,24,Costa Rica,Consultant,2011-09-23,0,0,1
+CUST000093,Denise Jacobs,90,Oman,Consultant,2017-05-23,0,0,0
+CUST000094,Christina Walters,89,Honduras,IT Professional,2019-09-06,0,0,2
+CUST000095,John Whitehead,29,Wallis and Futuna,Doctor,2013-04-02,0,0,0
+CUST000096,Anna Henderson,51,Guadeloupe,Manager,2015-07-29,0,0,4
+CUST000097,Aaron Wise,50,"Iran, Islamic Republic of",Doctor,2014-02-27,0,0,1
+CUST000098,Deborah Figueroa,65,Bulgaria,Researcher,2021-03-30,0,0,1
+CUST000099,Jessica Smith,40,Georgia,Manager,2018-07-05,0,0,0
+CUST000100,Stephen Mckee,79,San Marino,Lawyer,2021-04-26,0,0,1
+CUST000101,Sandra Aguilar,54,Malaysia,Financial Analyst,2018-12-01,0,0,3
+CUST000102,Cameron Parker,61,Cambodia,Sales Representative,2011-11-10,0,0,3
+CUST000103,Rebecca Valencia,52,Czechia,Financial Analyst,2012-05-11,0,0,0
+CUST000104,Christine Wright,82,Saint Vincent and the Grenadines,Consultant,2018-07-22,0,0,0
+CUST000105,Richard Henson,64,Syrian Arab Republic,Doctor,2011-05-04,0,0,3
+CUST000106,Marc Moore,20,Libya,Lawyer,2014-11-03,0,0,4
+CUST000107,Sharon Cherry,18,Tonga,Government Employee,2011-05-12,0,0,0
+CUST000108,Sierra Johnson,22,Slovakia,Accountant,2015-06-29,0,0,1
+CUST000109,Evelyn Galvan,31,Jersey,Student,2016-04-30,0,0,1
+CUST000110,Sharon Cochran,44,Jordan,Lawyer,2019-07-13,0,0,3
+CUST000111,Richard Rodriguez,26,Slovakia,Unemployed,2021-05-06,0,0,0
+CUST000112,Shannon Walker,32,Antigua and Barbuda,IT Professional,2013-01-07,0,0,0
+CUST000113,Julia Torres,59,Argentina,Researcher,2013-05-19,0,0,2
+CUST000114,Crystal Johnson,68,Canada,Student,2022-05-30,0,0,0
+CUST000115,Garrett Lin,80,Senegal,Unemployed,2023-05-24,0,0,1
+CUST000116,Diana May,69,Holy See (Vatican City State),Doctor,2021-12-27,0,0,1
+CUST000117,William Herrera,21,Bahrain,Retired,2021-01-07,0,0,1
+CUST000118,Ashley Waller,40,Indonesia,Government Employee,2020-11-10,0,0,1
+CUST000119,Victor Baker,32,El Salvador,Lawyer,2014-12-24,0,0,1
+CUST000120,Jeffrey Chandler,60,Yemen,Sales Representative,2011-01-27,0,0,0
+CUST000121,Larry Dixon,46,Burkina Faso,Doctor,2023-01-09,0,0,1
+CUST000122,Kenneth Scott,53,United States,Business Owner,2015-10-26,0,0,3
+CUST000123,April Frost,30,Saint Vincent and the Grenadines,Engineer,2015-11-21,0,0,2
+CUST000124,Michelle Harmon,49,Anguilla,Lawyer,2011-01-31,0,0,0
+CUST000125,Helen Jones,88,Montserrat,Sales Representative,2013-12-13,0,0,0
+CUST000126,Erin Edwards,76,French Polynesia,Researcher,2012-07-31,0,0,0
+CUST000127,Michelle Evans,45,Belarus,Unemployed,2018-10-23,0,0,1
+CUST000128,Jason Powell,83,Iraq,Accountant,2012-01-15,0,0,1
+CUST000129,Cameron Fisher,59,Heard Island and McDonald Islands,Business Owner,2024-03-10,0,0,2
+CUST000130,Megan Orr,62,Syrian Arab Republic,Financial Analyst,2021-11-17,0,0,0
+CUST000131,Elizabeth Kelley,79,Bouvet Island,Accountant,2012-05-28,0,0,0
+CUST000132,Dustin Jordan,74,Falkland Islands (Malvinas),Financial Analyst,2018-06-19,0,0,1
+CUST000133,Mary Marshall,23,Spain,Doctor,2016-10-26,0,0,2
+CUST000134,Daniel Kennedy,45,Mali,Engineer,2021-12-12,0,0,0
+CUST000135,Rebecca Jackson,45,Libya,Lawyer,2017-11-12,0,0,2
+CUST000136,Jose Schultz,61,Guinea,Lawyer,2014-09-12,0,0,0
+CUST000137,Robert Potter,47,Switzerland,Retired,2020-11-25,0,0,3
+CUST000138,Courtney Gonzalez,79,Croatia,Consultant,2014-04-10,0,0,3
+CUST000139,David Alvarez,79,Cocos (Keeling) Islands,Retired,2024-05-17,0,0,0
+CUST000140,Angel Perry,18,Niue,IT Professional,2018-07-17,0,0,0
+CUST000141,Cheyenne Horton,44,Barbados,Doctor,2013-03-22,0,0,1
+CUST000142,David Douglas Jr.,79,Azerbaijan,Doctor,2020-06-10,0,0,0
+CUST000143,Patricia Rodriguez,20,Nicaragua,Engineer,2013-01-23,0,0,2
+CUST000144,Christopher Rubio,87,Mauritania,Retired,2022-01-23,0,0,3
+CUST000145,Amber Wright,89,"Tanzania, United Republic of",Sales Representative,2017-10-03,0,0,2
+CUST000146,Joyce Solis,44,Saint Kitts and Nevis,Financial Analyst,2013-01-23,0,0,3
+CUST000147,Victoria Larson,26,France,Sales Representative,2010-10-16,0,0,1
+CUST000148,Stephanie Salazar,79,Gambia,Engineer,2019-12-27,1,0,0
+CUST000149,Kathy Rivas,54,Kazakhstan,Government Employee,2021-01-07,0,0,2
+CUST000150,Stephanie Manning,68,British Indian Ocean Territory,Consultant,2016-01-23,0,0,1
+CUST000151,David Wright,61,Guadeloupe,Sales Representative,2020-10-28,0,0,2
+CUST000152,Pamela Boyd,41,Sint Maarten (Dutch part),Manager,2012-05-08,0,0,0
+CUST000153,Denise Jones,76,Bosnia and Herzegovina,IT Professional,2012-07-21,0,0,0
+CUST000154,Devon Flores,49,Cayman Islands,Student,2024-06-08,0,0,5
+CUST000155,Brenda Hall,69,Bermuda,Engineer,2011-01-06,0,0,0
+CUST000156,Michelle Brown,79,Luxembourg,Engineer,2017-03-06,0,0,5
+CUST000157,Joshua Perry,75,Thailand,Teacher,2013-06-28,0,0,5
+CUST000158,Jason Stein,69,Norway,Financial Analyst,2024-01-05,0,0,2
+CUST000159,Melissa Gates,29,Heard Island and McDonald Islands,Unemployed,2021-12-09,0,0,2
+CUST000160,Jamie Smith,56,Antarctica,IT Professional,2016-04-22,0,0,1
+CUST000161,Paul Castaneda,19,Holy See (Vatican City State),Business Owner,2017-07-20,0,0,3
+CUST000162,Jennifer Adkins,20,Zimbabwe,Unemployed,2019-01-29,0,0,0
+CUST000163,Lindsey Walker,73,Costa Rica,Business Owner,2023-02-24,0,0,1
+CUST000164,Jeffrey Johnson,76,Solomon Islands,Manager,2019-01-17,0,0,2
+CUST000165,Michael Powell,19,Morocco,Retired,2011-09-22,0,0,1
+CUST000166,John Anderson,19,Pakistan,IT Professional,2022-09-06,0,0,1
+CUST000167,Alyssa Long,71,North Macedonia,Government Employee,2022-07-12,0,0,1
+CUST000168,Alyssa Day,18,Montserrat,Doctor,2013-07-19,0,0,1
+CUST000169,Joel Williams,36,Sint Maarten (Dutch part),Doctor,2022-11-24,0,0,3
+CUST000170,Daniel Murphy,19,Tajikistan,Unemployed,2012-07-02,0,0,0
+CUST000171,Jamie Walton,70,Russian Federation,Accountant,2021-08-17,0,0,4
+CUST000172,Darlene Miller,61,Saint Kitts and Nevis,Financial Analyst,2021-07-27,0,0,2
+CUST000173,Joshua Cooke,49,Cameroon,Manager,2013-10-15,0,0,3
+CUST000174,Matthew Harrington,87,Dominican Republic,Engineer,2012-02-13,0,0,1
+CUST000175,Nicole Herring,49,Liechtenstein,Manager,2020-09-29,0,0,2
+CUST000176,Alex Hernandez,85,Cuba,Manager,2018-07-03,0,0,0
+CUST000177,Michael Elliott,72,Ireland,Unemployed,2012-08-12,0,0,3
+CUST000178,Michael Wang,73,Sudan,Researcher,2010-11-04,0,0,0
+CUST000179,Lawrence Adkins,34,Comoros,Manager,2014-12-16,0,0,3
+CUST000180,Robert Oconnell,55,Puerto Rico,Business Owner,2019-09-12,0,0,5
+CUST000181,Alexander Collins,41,Bhutan,Researcher,2012-05-09,0,0,0
+CUST000182,Tina Sanders,86,Jordan,Financial Analyst,2019-12-09,0,0,0
+CUST000183,Angela Vaughn,87,Bahamas,Manager,2017-06-16,0,0,2
+CUST000184,Ashley Barton,28,Belarus,Consultant,2015-07-02,0,0,0
+CUST000185,Lindsay Martinez,33,Montenegro,Student,2016-01-27,0,0,3
+CUST000186,Dr. Hannah Patterson,90,American Samoa,Doctor,2014-08-16,0,0,0
+CUST000187,Jonathan Peterson,76,Canada,Researcher,2012-11-03,0,0,0
+CUST000188,Samantha Garcia,87,American Samoa,Accountant,2014-04-28,0,0,5
+CUST000189,Madison Poole,20,Nigeria,IT Professional,2021-09-25,0,0,2
+CUST000190,Jessica Gross,37,Jamaica,Student,2018-11-21,0,0,3
+CUST000191,Debra Morton,76,Qatar,Accountant,2019-05-30,0,0,1
+CUST000192,Karen Graham,53,Central African Republic,Teacher,2023-01-05,0,0,2
+CUST000193,Debra Christian,36,Ukraine,Accountant,2016-11-12,0,0,1
+CUST000194,Angelica Keith,84,Türkiye,Doctor,2023-12-23,0,0,2
+CUST000195,John Bishop,36,Cuba,Doctor,2011-04-03,0,0,2
+CUST000196,Allen Rosales,37,Heard Island and McDonald Islands,Researcher,2012-01-10,0,0,1
+CUST000197,Daniel Salinas,88,Curaçao,Manager,2019-04-15,0,0,1
+CUST000198,Spencer Haynes,69,Israel,Lawyer,2011-04-02,0,0,0
+CUST000199,Adam Vaughan,50,Mozambique,Teacher,2019-07-05,1,0,2
+CUST000200,Nathan Freeman,57,Yemen,Researcher,2024-04-15,0,0,0
+CUST000201,Melissa Brewer,56,Mongolia,Consultant,2022-11-09,0,0,2
+CUST000202,Ricky Davis II,18,Western Sahara,Engineer,2023-02-16,0,0,0
+CUST000203,Elizabeth Perkins,28,Christmas Island,Sales Representative,2019-04-25,0,0,2
+CUST000204,Joseph Coleman,74,Brazil,IT Professional,2022-12-08,0,0,2
+CUST000205,Erin Warner,67,Bhutan,Accountant,2023-09-29,0,0,0
+CUST000206,David Martinez,40,"Venezuela, Bolivarian Republic of",Lawyer,2017-01-14,0,0,0
+CUST000207,Bryan Herrera,48,Myanmar,Manager,2022-11-10,0,0,0
+CUST000208,Cathy Robinson,59,Sweden,Business Owner,2012-12-01,0,0,2
+CUST000209,Dr. William Warren,24,Türkiye,Financial Analyst,2019-02-10,0,0,3
+CUST000210,Brian Lee,33,Wallis and Futuna,Engineer,2018-03-15,0,0,0
+CUST000211,Christopher Smith,77,United States,Government Employee,2013-07-24,0,0,2
+CUST000212,Denise Mccann,19,Georgia,Retired,2019-08-23,0,0,1
+CUST000213,Melissa Martinez,18,Russian Federation,Lawyer,2012-05-09,0,0,1
+CUST000214,Katherine Salas,65,Iraq,Financial Analyst,2021-06-25,0,0,4
+CUST000215,Julie Alexander,29,United States,Business Owner,2011-08-23,0,0,1
+CUST000216,Anthony Everett,86,Tunisia,Teacher,2011-07-11,0,0,1
+CUST000217,Rodney Morales,54,El Salvador,Government Employee,2013-11-05,0,0,0
+CUST000218,Mark Brown,49,Montserrat,Researcher,2018-12-31,0,0,0
+CUST000219,Justin Torres,26,Senegal,Manager,2013-11-03,0,0,0
+CUST000220,Bailey Duran DDS,36,Samoa,Engineer,2015-04-27,0,0,0
+CUST000221,Courtney Mills,65,Finland,Engineer,2020-03-06,0,0,2
+CUST000222,Jeremy Dalton,20,El Salvador,Unemployed,2022-05-02,0,0,1
+CUST000223,Elizabeth Oliver DDS,37,Canada,Engineer,2022-04-10,0,0,1
+CUST000224,Theresa Clark,41,Azerbaijan,Teacher,2014-10-12,0,0,0
+CUST000225,Matthew Moore,71,Saint Lucia,Government Employee,2016-07-02,0,0,0
+CUST000226,Benjamin Smith,50,Chad,Accountant,2014-12-13,0,0,2
+CUST000227,Kirk Carter,41,Djibouti,Retired,2015-03-25,0,0,4
+CUST000228,Michael Warner,89,New Zealand,Consultant,2013-12-22,0,0,0
+CUST000229,Michael Bradshaw,53,Isle of Man,Teacher,2023-03-27,0,0,3
+CUST000230,Lori Guerrero,55,Switzerland,Sales Representative,2022-03-29,1,0,1
+CUST000231,Jessica Stephens,42,Bahrain,IT Professional,2023-02-02,0,0,1
+CUST000232,Susan Serrano,35,Central African Republic,IT Professional,2015-06-02,0,0,1
+CUST000233,Christopher Parker,83,Brunei Darussalam,Retired,2016-11-02,0,0,0
+CUST000234,Laura Roberts,71,Sri Lanka,Doctor,2021-12-30,0,0,0
+CUST000235,Michael Lyons,52,Viet Nam,IT Professional,2018-11-15,0,0,2
+CUST000236,Kathryn Snyder,78,"Taiwan, Province of China",Manager,2020-02-25,0,0,1
+CUST000237,Andrew Reynolds,58,"Iran, Islamic Republic of",Teacher,2020-03-07,0,0,4
+CUST000238,David Davis,50,Oman,Business Owner,2012-06-02,0,0,1
+CUST000239,Sara Johnston,85,Papua New Guinea,Retired,2014-05-21,0,0,0
+CUST000240,Yvonne Chambers,50,Turkmenistan,Sales Representative,2021-04-21,0,0,2
+CUST000241,Andrew Avila,31,Hungary,Unemployed,2014-12-26,0,0,0
+CUST000242,Matthew Moon,38,Heard Island and McDonald Islands,Doctor,2020-05-01,0,0,1
+CUST000243,Kevin Walters,65,Antarctica,Accountant,2018-03-15,0,0,2
+CUST000244,Brandon Bailey MD,37,Belgium,Government Employee,2014-01-27,0,0,4
+CUST000245,Shannon Rivera,25,Haiti,Business Owner,2018-11-05,1,0,2
+CUST000246,Donna Landry,24,China,Researcher,2022-10-04,0,0,2
+CUST000247,Krista Gibson,84,Qatar,Retired,2014-07-05,0,0,2
+CUST000248,Frank Cordova,34,Cook Islands,Manager,2012-02-08,0,0,4
+CUST000249,Jose Travis,50,Romania,Government Employee,2022-04-02,0,0,0
+CUST000250,Kimberly Gutierrez,65,Azerbaijan,Business Owner,2023-04-25,0,0,0
+CUST000251,Isaiah Avila,76,Fiji,Doctor,2012-04-28,0,0,0
+CUST000252,Olivia Harris,39,Cayman Islands,Unemployed,2024-02-13,0,0,0
+CUST000253,Tanya Kim,47,Curaçao,Business Owner,2022-05-10,0,0,2
+CUST000254,Barbara Dudley,55,"Virgin Islands, U.S.",Financial Analyst,2019-02-23,0,0,2
+CUST000255,Cynthia Moore,68,"Congo, The Democratic Republic of the",Government Employee,2020-09-19,0,0,1
+CUST000256,Kristen Davis,71,Antarctica,Student,2015-05-02,0,0,0
+CUST000257,Susan Murray MD,25,Dominica,Financial Analyst,2013-07-22,0,0,2
+CUST000258,Kathleen Moran,44,United Kingdom,Consultant,2013-08-26,0,0,1
+CUST000259,Denise Davenport,44,Turks and Caicos Islands,Unemployed,2019-08-27,0,0,2
+CUST000260,Mrs. Kristen Reyes,38,Ghana,Lawyer,2015-06-15,0,0,1
+CUST000261,Katie Suarez,47,United Arab Emirates,Accountant,2023-02-18,0,0,1
+CUST000262,Desiree Tyler,45,Timor-Leste,IT Professional,2020-10-03,0,0,0
+CUST000263,Timothy Romero,81,Montenegro,Doctor,2015-12-13,0,0,0
+CUST000264,Diane Evans,86,Georgia,Government Employee,2024-05-26,0,0,3
+CUST000265,Yvonne Burns,78,Syrian Arab Republic,Consultant,2015-09-10,0,0,4
+CUST000266,Joshua Reed,65,"Taiwan, Province of China",Consultant,2018-07-02,0,0,2
+CUST000267,Kimberly Gibson,36,Kenya,Researcher,2014-03-30,0,0,0
+CUST000268,Colin Terry,21,Suriname,Business Owner,2018-01-19,0,0,1
+CUST000269,Cynthia Rowe,52,Svalbard and Jan Mayen,Lawyer,2014-12-17,0,0,2
+CUST000270,Patrick Thornton,81,Sierra Leone,Consultant,2011-12-26,0,0,2
+CUST000271,Jasmin Alvarado,66,Bahrain,Lawyer,2013-07-14,0,0,0
+CUST000272,Veronica Simpson,34,Slovenia,Unemployed,2020-12-22,0,0,0
+CUST000273,Jonathan Lawrence,61,Equatorial Guinea,Financial Analyst,2020-03-10,0,0,2
+CUST000274,Shelly Alexander,47,Antarctica,Business Owner,2017-10-17,0,0,1
+CUST000275,Joyce Bowen,63,Mexico,Government Employee,2019-07-26,0,0,0
+CUST000276,Matthew Moore,23,Czechia,Financial Analyst,2023-02-19,0,0,0
+CUST000277,Wayne Morgan,54,Montserrat,Manager,2011-06-17,0,0,1
+CUST000278,Marie Christian,41,United States Minor Outlying Islands,Student,2012-04-15,0,0,3
+CUST000279,Shannon James,63,Iraq,Consultant,2023-01-30,0,0,4
+CUST000280,Nathan Malone,70,Bahamas,Teacher,2017-05-31,0,0,1
+CUST000281,Amanda Jones,77,"Congo, The Democratic Republic of the",Financial Analyst,2023-03-02,0,0,1
+CUST000282,Tammie Bright,80,"Bolivia, Plurinational State of",Student,2023-04-29,0,0,0
+CUST000283,Jessica Garcia,49,Armenia,Business Owner,2011-05-07,0,0,1
+CUST000284,Shelia Wallace,50,Austria,Researcher,2013-10-03,0,0,1
+CUST000285,Stephanie Williams,84,Solomon Islands,Accountant,2013-03-03,0,0,2
+CUST000286,Elaine Brooks,35,North Macedonia,Teacher,2012-07-15,0,0,1
+CUST000287,Joseph Knight,42,Northern Mariana Islands,Doctor,2020-12-01,0,0,0
+CUST000288,Carolyn Miller,71,Bahamas,IT Professional,2023-03-05,0,0,0
+CUST000289,Lisa Allen,75,Sint Maarten (Dutch part),Researcher,2013-01-21,0,0,1
+CUST000290,Briana Murray,84,Guadeloupe,Student,2022-08-26,0,0,0
+CUST000291,David Smith,63,Latvia,Unemployed,2020-04-12,0,0,0
+CUST000292,Stephanie Byrd,41,Antigua and Barbuda,Business Owner,2022-11-29,0,0,5
+CUST000293,Jeremy Reed,49,Gabon,Student,2011-02-07,0,0,1
+CUST000294,Margaret Coleman,64,Kazakhstan,IT Professional,2022-12-04,0,0,1
+CUST000295,Ryan Gonzalez,40,Andorra,Consultant,2019-03-05,0,0,3
+CUST000296,John Young,83,Saint Martin (French part),Researcher,2015-05-24,0,0,5
+CUST000297,Laura Haney,44,Jordan,Financial Analyst,2021-10-04,0,0,1
+CUST000298,William Barrett,19,Peru,Government Employee,2011-09-03,0,0,3
+CUST000299,Keith Jennings,34,Ethiopia,Teacher,2018-12-05,0,0,1
+CUST000300,Amber Obrien,50,Viet Nam,Sales Representative,2011-06-19,0,0,1
+CUST000301,Tanner Mitchell DDS,26,Czechia,Unemployed,2011-02-11,0,0,1
+CUST000302,Heather Fields,60,Syrian Arab Republic,Retired,2023-07-23,0,0,2
+CUST000303,Megan Le,65,Tokelau,Student,2010-07-23,0,0,2
+CUST000304,Sara Fuller,56,Guernsey,IT Professional,2022-08-11,0,0,1
+CUST000305,Maria Parker,59,Timor-Leste,Doctor,2015-01-17,0,0,0
+CUST000306,Kevin Oconnor,43,Turkmenistan,Doctor,2011-05-11,0,0,2
+CUST000307,Edward Burgess,67,Japan,Engineer,2011-10-09,0,0,0
+CUST000308,Carlos Ryan,42,Netherlands,Researcher,2012-09-21,0,0,1
+CUST000309,Kiara Mcintyre,41,Türkiye,Student,2017-05-09,0,0,2
+CUST000310,Dawn Summers,30,Mali,Retired,2018-08-07,0,0,2
+CUST000311,Dr. Paul Morgan,77,Qatar,Manager,2019-11-13,0,0,2
+CUST000312,Victor Taylor,24,Uruguay,IT Professional,2017-05-27,0,0,3
+CUST000313,Shannon Ramsey,74,Indonesia,Consultant,2019-02-04,0,0,1
+CUST000314,Tracy Ballard,53,Azerbaijan,Lawyer,2018-06-29,0,0,2
+CUST000315,Richard Smith,62,Antigua and Barbuda,Financial Analyst,2015-07-28,0,0,2
+CUST000316,Jordan Chambers,37,Mayotte,Government Employee,2021-07-06,0,0,0
+CUST000317,Lauren Carson,82,Mozambique,Retired,2017-09-20,0,0,0
+CUST000318,Ashley Hall,25,Türkiye,Lawyer,2014-03-12,0,0,0
+CUST000319,Stephen Hoffman,33,"Iran, Islamic Republic of",Researcher,2017-05-10,0,0,1
+CUST000320,Connie Brown,31,Réunion,Financial Analyst,2022-10-27,0,0,2
+CUST000321,Susan Turner,32,Côte d'Ivoire,Lawyer,2024-03-28,0,0,3
+CUST000322,Charles Shah,83,Heard Island and McDonald Islands,Financial Analyst,2014-03-03,0,0,0
+CUST000323,Johnathan Davis,49,Sri Lanka,Sales Representative,2010-07-08,0,0,0
+CUST000324,Brandy Chavez,80,Bouvet Island,Engineer,2011-10-27,0,0,4
+CUST000325,Natalie Bautista,68,New Zealand,Retired,2022-03-16,0,0,0
+CUST000326,Patrick Moore,42,Norway,Researcher,2022-10-21,0,0,1
+CUST000327,Brett Burns,75,Togo,Retired,2012-05-22,0,0,1
+CUST000328,Trevor Johnson,80,Portugal,Sales Representative,2019-09-01,0,0,1
+CUST000329,Jeremy Sampson,79,Syrian Arab Republic,Student,2013-02-06,0,0,0
+CUST000330,Ariana Jennings,39,"Iran, Islamic Republic of",Student,2018-07-02,0,0,0
+CUST000331,Vanessa Howard,75,Central African Republic,Student,2021-06-23,0,0,0
+CUST000332,Colton Martinez,75,Australia,Accountant,2016-08-14,0,0,1
+CUST000333,Jordan Bates,66,Cambodia,Lawyer,2022-11-27,0,0,1
+CUST000334,Linda Smith,69,"Virgin Islands, U.S.",Accountant,2018-12-20,0,0,0
+CUST000335,Dana Martinez,59,Anguilla,Engineer,2016-02-28,0,0,2
+CUST000336,Andrea Hubbard,87,Guatemala,Government Employee,2018-01-21,0,0,3
+CUST000337,Daniel Kane,32,Seychelles,Sales Representative,2020-11-28,0,0,0
+CUST000338,Charles Lester,71,Mauritania,Researcher,2014-08-15,0,0,1
+CUST000339,Scott Thomas,77,Madagascar,Retired,2012-04-06,0,0,2
+CUST000340,David Thompson,25,Slovenia,Financial Analyst,2017-08-30,0,0,0
+CUST000341,Allison Smith,70,New Caledonia,Consultant,2010-09-24,0,0,1
+CUST000342,Cynthia Morris,77,Austria,Researcher,2012-08-01,0,0,2
+CUST000343,Anthony Harmon,22,Holy See (Vatican City State),Lawyer,2024-04-09,0,0,3
+CUST000344,Nichole Alvarez,85,Nauru,Accountant,2012-01-04,0,0,3
+CUST000345,Kayla Rodriguez,23,"Iran, Islamic Republic of",Accountant,2017-09-25,0,0,1
+CUST000346,Theresa Williams,64,Lebanon,Business Owner,2022-02-15,0,0,2
+CUST000347,Sharon Boyd,72,Senegal,Accountant,2021-06-08,0,0,1
+CUST000348,Victor Brown,57,Curaçao,Government Employee,2018-07-08,0,0,2
+CUST000349,James Parks,69,Türkiye,Manager,2021-11-10,0,0,1
+CUST000350,Theodore Jones Jr.,33,Nauru,Retired,2022-01-18,0,0,0
+CUST000351,Ana Hill,30,Barbados,Manager,2012-01-15,0,0,2
+CUST000352,Kimberly Nguyen,47,Malaysia,Financial Analyst,2020-12-17,0,0,1
+CUST000353,Kerry Chavez DDS,36,South Africa,Retired,2018-05-04,0,0,1
+CUST000354,Michael Farrell,34,French Southern Territories,Sales Representative,2018-02-16,0,0,4
+CUST000355,Patricia Le,80,Madagascar,Retired,2010-11-19,0,0,0
+CUST000356,Jesse Perez,36,Burundi,Manager,2019-09-22,0,0,1
+CUST000357,Jesse Perry,75,Namibia,Researcher,2016-10-04,0,0,0
+CUST000358,Jeffery Ortega,72,Guyana,Retired,2019-11-19,0,0,2
+CUST000359,Christian Leblanc,79,Türkiye,Sales Representative,2018-07-12,0,0,2
+CUST000360,Ronald Davis,40,"Korea, Republic of",Sales Representative,2013-02-10,0,0,1
+CUST000361,Parker Cain,26,Central African Republic,Unemployed,2013-06-28,0,0,2
+CUST000362,Laurie Hoffman,29,Cameroon,Engineer,2018-10-25,0,0,1
+CUST000363,Bryan Gomez,18,Wallis and Futuna,Retired,2023-04-23,0,0,2
+CUST000364,Nicole Parrish,75,Belarus,Consultant,2022-05-18,1,0,1
+CUST000365,Tracy Burke,18,Russian Federation,Business Owner,2014-12-13,0,0,1
+CUST000366,Kenneth Lewis,51,"Virgin Islands, U.S.",Student,2018-03-30,0,0,4
+CUST000367,Courtney Rodriguez,65,Tokelau,Doctor,2023-06-17,0,0,0
+CUST000368,Holly Farmer,18,Dominica,Sales Representative,2024-05-14,0,0,0
+CUST000369,Renee Bruce,33,Samoa,Teacher,2016-12-19,0,0,1
+CUST000370,Sabrina Austin,78,Uzbekistan,Student,2021-07-07,0,0,4
+CUST000371,Allison Hickman,81,"Palestine, State of",Government Employee,2018-07-29,0,0,1
+CUST000372,Debra White,80,Austria,Lawyer,2020-10-28,0,0,0
+CUST000373,Ellen Morgan,86,Paraguay,Retired,2014-07-16,0,0,1
+CUST000374,Sergio Knight,39,Uzbekistan,Manager,2012-01-28,0,0,1
+CUST000375,Charles Schultz,84,"Venezuela, Bolivarian Republic of",Doctor,2014-11-09,0,0,0
+CUST000376,Paul Lewis,43,Kiribati,Teacher,2011-11-14,0,0,2
+CUST000377,Glen Wood,33,Armenia,Student,2024-03-25,0,0,5
+CUST000378,Paula Bradley,68,Malaysia,Retired,2021-12-09,0,0,1
+CUST000379,Anthony Moore,74,Mauritania,Engineer,2022-10-05,0,0,1
+CUST000380,Megan Nelson,46,Indonesia,Lawyer,2021-02-07,0,0,1
+CUST000381,Karla Ramos,86,Gibraltar,Doctor,2012-03-18,0,0,0
+CUST000382,Paul Wilson,64,Lithuania,Business Owner,2023-08-22,0,0,3
+CUST000383,Douglas Gregory,79,Algeria,Financial Analyst,2016-03-02,0,0,1
+CUST000384,Mr. Andrew Foster,86,Turkmenistan,Engineer,2011-05-21,0,0,1
+CUST000385,Aimee Turner,33,Philippines,Teacher,2012-01-21,0,0,2
+CUST000386,Chad Scott,65,Angola,Government Employee,2021-02-15,0,0,1
+CUST000387,Adam Burgess,56,Pakistan,Doctor,2014-10-23,0,0,2
+CUST000388,James Padilla,50,Maldives,Engineer,2021-08-03,0,0,0
+CUST000389,Sandra Drake,40,Cambodia,Lawyer,2023-07-06,0,0,3
+CUST000390,Scott Williams,27,Malaysia,Business Owner,2017-07-14,0,0,4
+CUST000391,Thomas Atkins,86,Viet Nam,Engineer,2016-04-08,0,0,2
+CUST000392,Laura Mckinney,51,Eritrea,Accountant,2023-07-22,0,0,4
+CUST000393,Brian Smith,69,Mali,Unemployed,2016-06-03,0,0,0
+CUST000394,Robert Montgomery,27,Russian Federation,Business Owner,2019-09-27,0,0,1
+CUST000395,Tamara Davis,36,Bouvet Island,Financial Analyst,2018-11-07,0,0,2
+CUST000396,Dana Chapman,75,Mauritania,Teacher,2022-02-21,0,0,1
+CUST000397,Jennifer Collins,18,Peru,Government Employee,2016-07-07,0,0,1
+CUST000398,Gary Jackson,86,Sudan,Lawyer,2011-11-22,0,0,1
+CUST000399,Ashley Hicks,21,Puerto Rico,Unemployed,2015-05-02,0,0,0
+CUST000400,Hannah Luna,33,Saint Vincent and the Grenadines,Consultant,2010-07-12,0,0,1
+CUST000401,Robin Young,41,Sao Tome and Principe,Retired,2020-12-24,0,0,0
+CUST000402,Craig Morrison,19,Finland,Manager,2019-02-20,0,0,2
+CUST000403,Mary Thompson,49,Mexico,IT Professional,2020-10-20,0,0,0
+CUST000404,Kathleen Webster,41,Cook Islands,Researcher,2020-06-23,0,0,0
+CUST000405,Joann Glass,29,Kiribati,Researcher,2015-03-15,0,0,1
+CUST000406,Madison Weber,67,Guinea-Bissau,Manager,2023-11-22,0,0,1
+CUST000407,Lori Hernandez,52,South Georgia and the South Sandwich Islands,IT Professional,2020-06-04,0,0,3
+CUST000408,Jeremy Turner,50,"Moldova, Republic of",Manager,2016-12-30,0,0,1
+CUST000409,Anthony Romero,50,Qatar,Doctor,2015-03-20,0,0,1
+CUST000410,Jesse Brown,78,Bouvet Island,Unemployed,2018-11-19,0,0,3
+CUST000411,Angela Lin,68,Djibouti,Teacher,2018-06-19,0,0,1
+CUST000412,Lisa Hunter,60,"Taiwan, Province of China",Lawyer,2020-11-16,0,0,0
+CUST000413,Julian Conner,29,New Zealand,Business Owner,2022-01-09,0,0,1
+CUST000414,Joanna Pacheco,84,Kuwait,Doctor,2015-11-14,0,0,4
+CUST000415,Erica Alvarez,82,Svalbard and Jan Mayen,Teacher,2023-07-31,0,0,1
+CUST000416,Antonio Garcia,50,Central African Republic,Retired,2013-11-22,0,0,0
+CUST000417,Gwendolyn Klein,57,Paraguay,Accountant,2019-06-17,0,0,0
+CUST000418,Carrie Wright,60,Denmark,Researcher,2019-12-22,0,0,0
+CUST000419,Jeffrey Mills,61,Cameroon,Lawyer,2014-02-15,0,0,1
+CUST000420,Jake Campbell,46,Guinea-Bissau,Manager,2016-08-09,0,0,1
+CUST000421,George Harper,30,American Samoa,Engineer,2017-08-08,0,0,0
+CUST000422,Maria Jones,29,Dominica,Consultant,2019-05-06,0,1,4
+CUST000423,Michael Mitchell,63,Faroe Islands,Lawyer,2019-06-13,0,0,2
+CUST000424,Mary Escobar,19,Tunisia,Sales Representative,2023-12-02,0,0,1
+CUST000425,Felicia Aguilar,52,Mauritania,Government Employee,2020-02-12,0,0,3
+CUST000426,Gregory Ponce,25,Solomon Islands,IT Professional,2015-07-06,0,0,0
+CUST000427,Jenna Larson,43,Cabo Verde,Teacher,2017-01-31,0,0,1
+CUST000428,Emily Bennett,51,Anguilla,Student,2018-03-14,0,0,2
+CUST000429,Robin Santiago,24,Czechia,Retired,2022-11-22,0,0,3
+CUST000430,Nancy Jennings,85,Ethiopia,Accountant,2018-03-10,0,0,2
+CUST000431,Maria Henderson,75,Myanmar,Retired,2016-07-28,0,0,0
+CUST000432,Jack White,46,Guatemala,Unemployed,2013-01-08,0,0,4
+CUST000433,Travis Tucker,53,Denmark,Lawyer,2015-06-26,0,0,0
+CUST000434,Chad Jones,38,Cuba,Researcher,2012-06-03,0,0,3
+CUST000435,Ashley Wise,53,Kazakhstan,IT Professional,2017-01-08,1,0,5
+CUST000436,Sophia Johnson,27,Vanuatu,Student,2023-10-30,0,0,0
+CUST000437,Ralph Anderson,90,Holy See (Vatican City State),Sales Representative,2021-11-11,0,0,2
+CUST000438,Christopher Guerra,41,Iceland,Business Owner,2018-08-04,0,0,0
+CUST000439,Rhonda Martin,81,Fiji,Engineer,2020-06-11,0,0,1
+CUST000440,Jason Rhodes,66,Ireland,Student,2011-06-05,0,0,1
+CUST000441,Jeremy Mitchell,53,Tunisia,Teacher,2018-06-30,0,0,1
+CUST000442,Joann Ferguson,41,Cayman Islands,Manager,2023-08-04,0,0,4
+CUST000443,Robert Harrison,40,Togo,Sales Representative,2022-01-06,0,0,2
+CUST000444,Holly Valentine,79,Nepal,Engineer,2011-01-25,0,0,1
+CUST000445,Mrs. Diane Reyes,54,"Virgin Islands, U.S.",Consultant,2014-09-14,0,0,3
+CUST000446,Tracy Montoya,29,Angola,Accountant,2016-09-11,0,0,4
+CUST000447,Brenda Wright,72,Cambodia,Manager,2017-05-31,0,0,0
+CUST000448,Shelly Spencer,30,Albania,Lawyer,2014-08-30,0,0,5
+CUST000449,Ryan Rosales,40,Åland Islands,Student,2010-11-07,0,0,0
+CUST000450,Phillip Nelson,47,Åland Islands,Researcher,2012-12-23,0,0,3
+CUST000451,Brittany Kim,34,Cuba,Engineer,2021-11-08,0,0,0
+CUST000452,Courtney Hayes,79,"Congo, The Democratic Republic of the",Government Employee,2015-10-23,0,0,0
+CUST000453,Alexander Brown,30,Syrian Arab Republic,Doctor,2011-07-08,0,0,1
+CUST000454,Cynthia Vang,76,Philippines,Government Employee,2020-03-08,0,0,2
+CUST000455,Alfred Galvan,36,Argentina,Business Owner,2018-09-26,0,0,1
+CUST000456,Marie Moody,66,Honduras,Government Employee,2023-06-15,0,0,0
+CUST000457,Dustin Gallegos,29,Benin,Consultant,2014-09-01,0,0,1
+CUST000458,Brenda Thornton,78,Saint Kitts and Nevis,Unemployed,2024-05-30,0,0,4
+CUST000459,Aaron Miller,36,"Virgin Islands, U.S.",Business Owner,2012-10-14,0,0,1
+CUST000460,Ruben Dunn,26,Djibouti,Sales Representative,2012-05-16,0,0,0
+CUST000461,Kelsey Rodriguez,88,"Korea, Republic of",Accountant,2020-01-11,0,0,1
+CUST000462,Eric Williams,45,Uruguay,Sales Representative,2016-04-12,0,0,0
+CUST000463,Riley Bryant,69,Norfolk Island,Doctor,2014-10-10,0,0,3
+CUST000464,Taylor Carlson,33,Palau,Teacher,2022-11-17,0,0,3
+CUST000465,Jose Allen,86,Guernsey,Accountant,2017-01-16,0,0,1
+CUST000466,Jeffrey Mendez,29,Dominica,Government Employee,2010-06-22,0,0,1
+CUST000467,Jason Beck,42,North Macedonia,Researcher,2017-05-29,0,0,2
+CUST000468,William Jones,69,Turks and Caicos Islands,Retired,2021-08-27,0,0,1
+CUST000469,Katie Mcneil,70,Angola,Teacher,2017-09-17,0,0,3
+CUST000470,Jeanette Harrison,40,Namibia,Accountant,2013-01-27,0,0,2
+CUST000471,Veronica King,33,Türkiye,Accountant,2017-07-06,0,0,2
+CUST000472,Richard Cooper,74,"Tanzania, United Republic of",Doctor,2015-04-16,0,0,1
+CUST000473,Lori Ingram,56,French Southern Territories,Lawyer,2017-02-17,0,0,1
+CUST000474,Evelyn Williams,70,Cambodia,Government Employee,2015-06-04,0,0,4
+CUST000475,Robin Thompson,59,Lao People's Democratic Republic,Doctor,2017-10-25,0,0,1
+CUST000476,Julie Dominguez,75,"Venezuela, Bolivarian Republic of",Accountant,2012-01-06,0,0,2
+CUST000477,Robin Brown,56,Equatorial Guinea,Engineer,2021-08-05,0,0,0
+CUST000478,Judith Carter,31,Finland,Teacher,2020-02-23,0,0,2
+CUST000479,Curtis Williams,22,Eritrea,Doctor,2015-01-07,0,0,1
+CUST000480,Kaylee Hays,52,Maldives,Lawyer,2015-12-12,0,0,0
+CUST000481,Dawn Mullins,35,Haiti,IT Professional,2020-07-18,0,0,0
+CUST000482,Howard Norman,26,Heard Island and McDonald Islands,Student,2010-08-23,0,0,2
+CUST000483,Evelyn Martinez,75,American Samoa,Sales Representative,2011-09-07,0,0,2
+CUST000484,Steve Paul,34,India,Accountant,2017-09-12,0,0,1
+CUST000485,Jasmine Beltran,24,Paraguay,Government Employee,2015-05-05,0,0,0
+CUST000486,Jonathan Glass MD,63,Egypt,Retired,2012-02-28,0,0,2
+CUST000487,Monica Miller,30,"Korea, Republic of",Student,2024-06-09,0,0,0
+CUST000488,Samantha Gardner,57,Tajikistan,Business Owner,2017-08-19,0,0,1
+CUST000489,Bobby Guerrero,59,Belarus,Researcher,2018-01-05,0,0,0
+CUST000490,Lance Simmons,26,Saint Martin (French part),Researcher,2019-09-26,0,0,0
+CUST000491,Heather Williams,67,Singapore,Financial Analyst,2014-10-22,0,0,0
+CUST000492,Heather Bolton,44,Mauritania,Financial Analyst,2011-06-10,0,0,1
+CUST000493,William Gould,83,Tunisia,Manager,2010-11-04,0,0,0
+CUST000494,Mark Cox,22,France,Lawyer,2017-03-22,0,0,1
+CUST000495,Meghan Cisneros,46,Nauru,Unemployed,2014-01-07,0,0,1
+CUST000496,Lawrence Harrington,54,Argentina,Retired,2014-07-16,0,0,1
+CUST000497,Austin Osborne,55,Sao Tome and Principe,IT Professional,2014-07-13,0,0,1
+CUST000498,James Bradley,25,Canada,IT Professional,2019-08-28,0,0,3
+CUST000499,Meghan Rush,82,Bahrain,Manager,2012-12-25,0,0,0
+CUST000500,Phillip Berry,34,Åland Islands,Lawyer,2013-11-01,0,0,1
+CUST000501,Jennifer Banks,88,Monaco,Unemployed,2020-08-22,0,0,0
+CUST000502,Brian Fitzgerald,62,Qatar,Government Employee,2022-07-19,0,0,0
+CUST000503,Mr. Justin Green III,21,Tunisia,Engineer,2018-01-31,0,0,1
+CUST000504,Zachary Mitchell,53,Turks and Caicos Islands,Unemployed,2012-11-20,0,0,1
+CUST000505,Katherine Martinez,87,Kuwait,Government Employee,2010-07-24,0,0,3
+CUST000506,Jodi Roach,48,Sao Tome and Principe,Sales Representative,2016-12-06,0,0,1
+CUST000507,Brandon Fleming,36,Botswana,Student,2022-05-09,0,0,4
+CUST000508,Emma Reed,78,Ethiopia,Teacher,2019-03-07,0,0,0
+CUST000509,Joshua Vance,71,Lithuania,Unemployed,2017-06-27,0,0,0
+CUST000510,Michelle Ho,56,Peru,IT Professional,2019-05-30,0,0,0
+CUST000511,Rebecca Hicks,36,Greece,Researcher,2019-12-25,0,0,0
+CUST000512,Curtis Taylor,56,Mali,Lawyer,2021-02-21,0,0,1
+CUST000513,Allison Spencer,84,Svalbard and Jan Mayen,Government Employee,2023-11-25,0,0,2
+CUST000514,Robert Arnold,62,Bouvet Island,Teacher,2023-05-31,0,0,0
+CUST000515,Angelica Parker,30,Germany,Sales Representative,2018-12-16,0,0,4
+CUST000516,Dr. Kelly Hammond DVM,75,Peru,Accountant,2013-10-16,0,1,3
+CUST000517,William Day,37,Serbia,Business Owner,2010-09-27,0,0,0
+CUST000518,Michael Cooper,89,Saint Barthélemy,Student,2022-10-25,0,0,0
+CUST000519,Penny Bowman,78,"Saint Helena, Ascension and Tristan da Cunha",Sales Representative,2014-03-27,0,0,0
+CUST000520,Vincent Reynolds,56,Serbia,Sales Representative,2015-02-25,0,0,0
+CUST000521,Amy Martinez,18,Georgia,Government Employee,2011-07-16,0,0,0
+CUST000522,Christopher Morris,20,Jersey,Engineer,2020-02-02,0,0,1
+CUST000523,Hannah Everett,79,Canada,Manager,2015-11-02,0,1,0
+CUST000524,Sarah King,80,Côte d'Ivoire,IT Professional,2013-05-12,0,0,1
+CUST000525,Krista Martinez,42,Tonga,Business Owner,2015-06-27,0,0,5
+CUST000526,Joseph Shaw,73,Dominica,Student,2018-12-23,0,0,2
+CUST000527,Todd Moore,50,Guatemala,Accountant,2021-02-20,0,0,4
+CUST000528,Michelle Jacobs,55,Jordan,Accountant,2024-04-28,0,1,0
+CUST000529,Kristy Bryan,23,French Polynesia,Doctor,2022-01-21,1,0,1
+CUST000530,Angel May,75,Egypt,Sales Representative,2014-11-30,0,0,1
+CUST000531,Marilyn Wang,61,Christmas Island,Lawyer,2019-07-17,0,0,0
+CUST000532,Mark Jimenez,62,Canada,Unemployed,2020-07-03,0,0,0
+CUST000533,Donna Frye,49,Heard Island and McDonald Islands,Engineer,2012-10-30,0,0,2
+CUST000534,Dr. Michael Evans,62,Canada,Business Owner,2014-01-11,0,0,2
+CUST000535,Anthony Gonzales,78,Grenada,Unemployed,2023-04-28,0,0,1
+CUST000536,Mr. Lawrence Edwards,64,Serbia,Government Employee,2011-12-12,0,0,1
+CUST000537,Morgan Valencia,38,Holy See (Vatican City State),Accountant,2018-11-10,0,0,1
+CUST000538,Bianca Wood,53,Brazil,Student,2021-09-22,0,0,0
+CUST000539,Emma Owens,36,Albania,Doctor,2014-03-18,0,0,1
+CUST000540,David Davis,37,Turks and Caicos Islands,Researcher,2021-06-16,0,0,0
+CUST000541,James Gilbert,74,Malta,IT Professional,2014-01-10,0,0,0
+CUST000542,Sean Moore,35,United Kingdom,Student,2012-07-14,0,0,4
+CUST000543,Kenneth Edwards,64,Norway,Engineer,2011-11-30,0,0,1
+CUST000544,Kathleen Robertson,66,Greenland,Lawyer,2011-02-04,0,0,2
+CUST000545,Mr. Alexander Landry MD,31,Hong Kong,Doctor,2017-05-01,0,0,1
+CUST000546,Cindy Gomez,32,Czechia,Researcher,2014-07-10,0,0,1
+CUST000547,Johnny Khan,48,Czechia,Doctor,2010-09-16,0,0,0
+CUST000548,Julie Herrera,18,Congo,Manager,2013-02-15,0,0,0
+CUST000549,Jessica Khan,71,Nepal,Business Owner,2014-11-17,0,0,0
+CUST000550,Pamela Diaz,20,French Southern Territories,Doctor,2012-02-28,0,0,2
+CUST000551,Kelly Lee,33,Ireland,Consultant,2014-06-13,0,0,2
+CUST000552,Angel Gordon,74,Côte d'Ivoire,Manager,2020-11-17,0,0,1
+CUST000553,Diana Hays,29,Equatorial Guinea,Manager,2013-10-20,1,0,1
+CUST000554,Barbara Hester,33,Puerto Rico,Engineer,2014-05-10,0,0,4
+CUST000555,Robert Morgan,89,Nauru,Consultant,2018-08-20,0,0,0
+CUST000556,Nicole Gonzalez,41,Croatia,Teacher,2018-11-26,0,0,0
+CUST000557,Kathryn Williams,45,Rwanda,Student,2018-03-25,0,0,1
+CUST000558,Gary Wells,25,Martinique,IT Professional,2012-10-03,0,0,2
+CUST000559,Larry Robertson,53,Niue,Lawyer,2013-07-31,0,0,5
+CUST000560,Louis Martin,25,Réunion,Retired,2019-01-31,0,0,0
+CUST000561,Nancy Evans MD,75,Andorra,Student,2018-04-16,0,0,3
+CUST000562,Kim Erickson,77,Lithuania,Doctor,2014-08-01,0,0,3
+CUST000563,Robert Richardson,67,United States,Lawyer,2022-09-17,0,0,0
+CUST000564,Veronica Silva,45,Côte d'Ivoire,Accountant,2018-01-15,0,1,1
+CUST000565,Molly Watts,58,Cyprus,Teacher,2019-03-11,0,0,1
+CUST000566,John Coffey,81,Zimbabwe,Accountant,2018-05-10,0,0,5
+CUST000567,Paula Lane,44,Vanuatu,Consultant,2016-11-30,0,0,0
+CUST000568,Lauren Jackson,80,Bermuda,Financial Analyst,2017-04-11,0,0,2
+CUST000569,Lisa Randall,34,Bangladesh,Accountant,2012-05-02,0,0,1
+CUST000570,Michael Johnson,90,Nauru,Government Employee,2022-08-22,0,0,2
+CUST000571,Ashley Smith,50,Morocco,Business Owner,2021-05-06,0,0,1
+CUST000572,Christian Vaughn,46,Namibia,Student,2021-01-24,0,0,1
+CUST000573,Reginald Knapp,30,Ireland,Retired,2019-04-06,0,0,3
+CUST000574,Nancy Brown,63,Puerto Rico,Government Employee,2015-11-10,0,0,3
+CUST000575,Daniel Nguyen,52,Malaysia,Financial Analyst,2021-01-08,0,0,3
+CUST000576,Kelly Edwards,23,Central African Republic,Engineer,2019-08-26,0,0,0
+CUST000577,Thomas Peterson,86,Mayotte,Retired,2023-01-03,0,0,2
+CUST000578,Raymond Le,64,Guernsey,Accountant,2015-02-22,0,0,0
+CUST000579,Melissa Bishop,42,Croatia,Doctor,2015-04-22,0,0,1
+CUST000580,David Grant,83,Afghanistan,Researcher,2017-01-10,0,0,1
+CUST000581,William Evans,27,South Sudan,Teacher,2012-04-11,1,0,1
+CUST000582,Daniel Bush,73,Faroe Islands,IT Professional,2013-12-31,0,0,1
+CUST000583,Gregory Peck,47,Tokelau,Sales Representative,2015-02-14,0,0,5
+CUST000584,Denise Martinez,22,Antarctica,Retired,2023-01-19,0,0,0
+CUST000585,Jamie Baird,50,Central African Republic,IT Professional,2019-10-23,0,0,2
+CUST000586,Tina Ballard,82,Senegal,IT Professional,2015-01-10,0,0,1
+CUST000587,Dwayne Klein,35,Tonga,Accountant,2015-09-18,0,0,0
+CUST000588,Jeremy Scott,66,French Southern Territories,Teacher,2011-05-08,0,0,0
+CUST000589,Dale Ryan,28,Cameroon,Unemployed,2024-01-04,0,0,4
+CUST000590,Melissa Taylor,43,Martinique,Lawyer,2011-07-15,0,0,3
+CUST000591,Laurie Sanchez,80,Jamaica,Student,2015-12-01,0,0,4
+CUST000592,Kiara Little,76,United States Minor Outlying Islands,IT Professional,2013-10-01,0,0,5
+CUST000593,Jason Love,44,Azerbaijan,Manager,2024-04-25,0,0,0
+CUST000594,Randy Smith,66,Isle of Man,Financial Analyst,2016-07-23,0,0,1
+CUST000595,Tanya Russell,50,Timor-Leste,Business Owner,2017-10-01,0,0,2
+CUST000596,Sherry Woods,18,Heard Island and McDonald Islands,Teacher,2015-09-14,0,0,1
+CUST000597,Victor Morris,38,Réunion,Doctor,2015-01-19,0,0,1
+CUST000598,Susan Davis,72,Saudi Arabia,Consultant,2012-05-17,0,0,1
+CUST000599,Kimberly Sharp,23,Guinea-Bissau,Doctor,2012-03-14,0,0,1
+CUST000600,Susan Thompson,86,Iraq,Teacher,2010-12-02,0,0,1
+CUST000601,Casey Gillespie,22,Norfolk Island,Doctor,2019-07-03,0,0,0
+CUST000602,Jennifer Simpson DVM,20,"Virgin Islands, British",IT Professional,2013-07-01,0,0,1
+CUST000603,Tammy Mcdowell,70,Spain,Student,2019-07-12,0,0,1
+CUST000604,Keith Rodriguez,40,Sweden,Doctor,2018-04-30,0,0,1
+CUST000605,Mrs. Virginia Daniels,70,Malaysia,Unemployed,2014-09-03,0,0,0
+CUST000606,Todd Rosales MD,54,Solomon Islands,Retired,2013-07-22,1,0,2
+CUST000607,Brian Martin,34,Fiji,Manager,2023-10-19,0,0,0
+CUST000608,David Lopez,90,United States Minor Outlying Islands,Doctor,2015-09-23,0,0,1
+CUST000609,Rachel Bradley,18,Tonga,Manager,2016-11-28,0,0,2
+CUST000610,Casey Chase,68,Tunisia,Researcher,2015-05-19,0,0,1
+CUST000611,Samantha Robertson,62,Denmark,Accountant,2020-09-29,0,0,0
+CUST000612,Michael Lopez,21,Mauritius,Engineer,2013-12-19,0,0,2
+CUST000613,Franklin Wright,79,Germany,Student,2021-08-02,0,0,1
+CUST000614,David Molina,82,Gabon,Financial Analyst,2010-06-29,0,0,2
+CUST000615,Elizabeth Sharp,49,Turkmenistan,IT Professional,2012-06-20,0,0,2
+CUST000616,Matthew Schwartz,51,Bouvet Island,Engineer,2023-11-05,0,0,2
+CUST000617,Bryan Parker,89,Tokelau,IT Professional,2015-08-12,0,0,1
+CUST000618,Jonathan Jacobson,56,Burkina Faso,Unemployed,2011-03-05,0,0,0
+CUST000619,Emily Wilson,43,South Georgia and the South Sandwich Islands,Accountant,2011-10-16,1,0,0
+CUST000620,Elizabeth Mendez,51,Myanmar,IT Professional,2023-11-03,0,0,1
+CUST000621,Casey Hernandez,71,Guyana,Researcher,2022-07-26,0,0,1
+CUST000622,Lisa Perry,20,Tuvalu,Student,2014-11-01,0,0,1
+CUST000623,Kaitlin Medina,67,Viet Nam,Teacher,2021-05-28,0,1,0
+CUST000624,Colleen Wright,29,Eritrea,Teacher,2014-02-03,0,0,0
+CUST000625,Shelley Miller,82,Thailand,Manager,2020-05-16,0,0,1
+CUST000626,Michael Miller,71,Saudi Arabia,Accountant,2023-04-28,0,0,0
+CUST000627,Amy Kelley,22,Azerbaijan,Manager,2018-08-12,0,0,2
+CUST000628,Laura Hernandez,74,Antarctica,Researcher,2015-12-12,0,0,0
+CUST000629,Joseph Wilson,34,Mongolia,Business Owner,2017-02-08,0,0,1
+CUST000630,Kevin Davis,64,North Macedonia,Doctor,2019-09-14,0,0,4
+CUST000631,Rhonda Chavez,40,Morocco,Sales Representative,2014-04-02,0,0,0
+CUST000632,Joyce Brown,31,Kenya,Business Owner,2017-02-12,0,0,1
+CUST000633,Robert Cummings,83,Sudan,Doctor,2016-11-17,0,0,0
+CUST000634,Robert Reese,68,Burkina Faso,Student,2015-12-12,0,0,2
+CUST000635,Amber Cooper,55,Togo,Manager,2018-03-17,0,0,1
+CUST000636,Zachary Michael,81,Cambodia,Financial Analyst,2014-12-29,0,0,1
+CUST000637,Timothy Johnson,55,Slovenia,Student,2018-10-16,0,0,1
+CUST000638,Randy Cannon,67,Colombia,Researcher,2022-08-12,0,0,3
+CUST000639,Maria Fisher,47,Antigua and Barbuda,Government Employee,2013-11-25,0,0,0
+CUST000640,Janet Kane DVM,68,Saudi Arabia,Government Employee,2024-01-06,0,0,0
+CUST000641,Michael Stanley,80,Pitcairn,Unemployed,2012-05-08,0,0,3
+CUST000642,Martha Bailey,69,Belarus,Unemployed,2023-04-13,0,0,1
+CUST000643,Joshua Rice,55,Saint Pierre and Miquelon,Unemployed,2016-08-07,0,0,3
+CUST000644,Courtney Smith,47,Nigeria,Government Employee,2019-06-03,0,0,1
+CUST000645,Edwin Nunez,68,Türkiye,Researcher,2022-11-28,0,0,3
+CUST000646,Kim Morrow,22,Poland,Financial Analyst,2023-07-19,0,0,1
+CUST000647,Gregory Hill,46,Lao People's Democratic Republic,IT Professional,2023-10-02,0,0,2
+CUST000648,Molly Rodriguez,21,Saint Pierre and Miquelon,Student,2018-11-26,0,0,4
+CUST000649,Jennifer Miranda,27,Andorra,Doctor,2019-12-23,0,0,1
+CUST000650,Alexis Harris,73,Belarus,Researcher,2023-12-29,1,0,0
+CUST000651,Andrew Harper,34,Monaco,Government Employee,2010-07-07,0,0,0
+CUST000652,Amber Yang,34,Brazil,Financial Analyst,2021-01-11,0,0,0
+CUST000653,David Robinson,86,Luxembourg,Accountant,2019-02-05,0,0,0
+CUST000654,Amy Gordon,51,Israel,Unemployed,2021-08-13,0,0,1
+CUST000655,Robert Dennis,23,Gabon,Researcher,2013-10-29,0,0,1
+CUST000656,Kyle Chambers,70,Namibia,Consultant,2021-11-18,0,0,1
+CUST000657,Eric Thomas,83,Papua New Guinea,IT Professional,2011-10-19,0,0,1
+CUST000658,Connie Turner,60,Somalia,Doctor,2019-07-24,0,0,2
+CUST000659,Travis Hobbs,40,Cyprus,Government Employee,2014-01-07,0,0,0
+CUST000660,Lori Simmons,72,Syrian Arab Republic,Lawyer,2018-09-13,0,0,0
+CUST000661,William David DDS,33,Bahamas,Teacher,2016-03-05,0,0,0
+CUST000662,Emma Butler,25,Tunisia,Financial Analyst,2020-09-07,0,0,1
+CUST000663,James Webster,21,Panama,Teacher,2010-11-10,0,0,0
+CUST000664,Samuel Turner,21,Tunisia,Business Owner,2010-10-30,0,0,0
+CUST000665,Renee Melendez,73,Belarus,Teacher,2021-11-17,0,0,1
+CUST000666,Tracy Grant,42,Anguilla,Doctor,2020-10-10,0,0,3
+CUST000667,David Harris,84,Slovakia,Retired,2017-06-21,0,0,0
+CUST000668,Tammy Boone,84,Honduras,Manager,2022-01-09,0,0,2
+CUST000669,Nathaniel Lee,44,Madagascar,Doctor,2011-06-21,0,0,2
+CUST000670,Michael Morrison,49,United States Minor Outlying Islands,IT Professional,2023-11-15,0,0,2
+CUST000671,Chelsea Gill,67,Central African Republic,Consultant,2017-06-14,0,0,4
+CUST000672,Kristin Mendoza,78,Australia,Doctor,2011-07-15,0,0,0
+CUST000673,Felicia Krueger,68,Kyrgyzstan,Researcher,2016-01-12,0,0,0
+CUST000674,Timothy Hayden,36,Belarus,Financial Analyst,2015-07-21,0,0,3
+CUST000675,Zachary Mendoza,38,Malawi,Sales Representative,2020-01-01,0,0,1
+CUST000676,Larry Harris,22,Falkland Islands (Malvinas),Financial Analyst,2022-09-29,0,0,1
+CUST000677,Kristen Rowe,59,Japan,Manager,2011-03-03,0,0,2
+CUST000678,Joseph Howard,78,"Bolivia, Plurinational State of",Lawyer,2019-01-01,0,0,2
+CUST000679,Jose Crawford,39,Liechtenstein,Teacher,2022-03-01,0,0,4
+CUST000680,William Harrison,38,Pitcairn,Manager,2017-09-07,0,0,5
+CUST000681,Suzanne Wood,87,South Sudan,Teacher,2010-12-25,0,0,2
+CUST000682,Justin Walker,18,Gibraltar,Business Owner,2021-09-25,0,0,0
+CUST000683,Dean Donovan,22,Burkina Faso,Manager,2011-10-03,0,0,3
+CUST000684,Jennifer Hernandez,29,Somalia,Government Employee,2023-07-12,0,0,0
+CUST000685,James Whitaker,63,Bosnia and Herzegovina,IT Professional,2016-08-29,0,0,0
+CUST000686,Mr. Michael Scott PhD,51,Singapore,IT Professional,2012-07-01,0,0,3
+CUST000687,Maria Henry,66,Georgia,Teacher,2014-11-03,0,0,0
+CUST000688,Robert Jackson,62,Lebanon,Lawyer,2016-02-20,0,0,0
+CUST000689,Katherine Stark,44,Uzbekistan,Unemployed,2022-11-26,0,0,0
+CUST000690,Maria Brown,90,Paraguay,Unemployed,2013-02-06,0,0,3
+CUST000691,Ryan Landry,43,Greenland,Government Employee,2016-10-17,0,0,1
+CUST000692,Pamela Gutierrez,64,Tokelau,Engineer,2024-03-01,0,0,2
+CUST000693,Crystal Mann,73,"Bonaire, Sint Eustatius and Saba",Student,2015-01-10,0,0,0
+CUST000694,Jonathan Brooks,80,"Congo, The Democratic Republic of the",Student,2013-06-15,0,0,2
+CUST000695,Mary Jensen,65,Suriname,Lawyer,2022-01-30,0,0,2
+CUST000696,Mr. Aaron Arnold,78,Haiti,Sales Representative,2014-09-22,0,0,1
+CUST000697,Joseph Hill,43,Qatar,Engineer,2016-04-28,0,0,1
+CUST000698,Alicia Li,53,Gibraltar,Business Owner,2014-02-19,0,0,0
+CUST000699,Renee Browning,18,Albania,Lawyer,2021-01-06,0,0,5
+CUST000700,Brent Hernandez,25,Malta,Government Employee,2014-09-06,0,0,2
+CUST000701,Joseph Ochoa,69,"Palestine, State of",Student,2020-07-01,0,0,4
+CUST000702,James Watson,64,"Saint Helena, Ascension and Tristan da Cunha",Researcher,2012-09-29,0,0,1
+CUST000703,Karl Branch,73,Sri Lanka,Student,2018-05-23,0,0,2
+CUST000704,Michael Abbott,31,Aruba,Student,2010-08-20,0,0,2
+CUST000705,Shannon Malone,45,Cyprus,Government Employee,2012-05-18,0,0,2
+CUST000706,James Tran,19,Kuwait,Accountant,2013-08-09,0,0,4
+CUST000707,Adam Jackson,43,Niue,Lawyer,2014-01-08,0,0,1
+CUST000708,Mr. Richard Knight PhD,31,Australia,Doctor,2014-09-05,0,0,0
+CUST000709,Joseph Williams,76,Niger,Financial Analyst,2011-02-28,0,0,2
+CUST000710,Sean Clay,73,Romania,Business Owner,2018-06-06,0,0,2
+CUST000711,Anthony Jones,24,Norfolk Island,Student,2017-03-21,0,0,1
+CUST000712,Stephanie Elliott,20,Dominican Republic,Financial Analyst,2018-12-10,0,0,0
+CUST000713,Timothy Edwards,40,"Virgin Islands, U.S.",IT Professional,2022-07-04,0,0,1
+CUST000714,Laurie Goodwin,35,Bahrain,Unemployed,2018-03-12,0,0,1
+CUST000715,Jennifer Jones,55,Bulgaria,Researcher,2014-05-04,0,0,1
+CUST000716,David Davenport,32,Antarctica,Teacher,2018-12-24,0,0,2
+CUST000717,Steven Rivera,81,Burundi,Lawyer,2014-01-10,0,0,2
+CUST000718,Brenda Hinton,45,Australia,Consultant,2011-09-01,0,0,0
+CUST000719,Kathryn Mccann,56,Uzbekistan,Government Employee,2010-10-05,0,0,1
+CUST000720,Jeffrey Roberson,74,Suriname,Accountant,2015-12-13,0,0,0
+CUST000721,Randy Friedman,34,Bosnia and Herzegovina,IT Professional,2016-11-26,0,0,0
+CUST000722,Raymond Johnson,61,Ethiopia,Lawyer,2023-10-21,0,0,2
+CUST000723,Willie Henry,42,Germany,Business Owner,2013-05-12,0,0,4
+CUST000724,Todd Reynolds,34,Panama,Researcher,2017-02-27,0,0,1
+CUST000725,Mary Miller,30,Chad,Accountant,2020-05-15,0,0,2
+CUST000726,Rebecca Marquez,42,North Macedonia,Business Owner,2013-07-06,0,0,3
+CUST000727,Christian Dawson,85,Guatemala,IT Professional,2019-09-10,0,0,3
+CUST000728,Nancy Stewart,27,Costa Rica,Lawyer,2016-06-28,0,0,0
+CUST000729,Aaron Parker,84,United Arab Emirates,Doctor,2018-08-27,0,0,4
+CUST000730,Derrick Anderson,35,Gabon,IT Professional,2016-10-24,0,0,1
+CUST000731,Jerry Peters,51,Bosnia and Herzegovina,Consultant,2018-03-06,0,0,1
+CUST000732,Alexander Gomez,25,Panama,Business Owner,2011-01-29,0,0,0
+CUST000733,Kyle Nguyen,57,Colombia,Accountant,2018-04-02,0,0,1
+CUST000734,Edgar Hughes,59,Wallis and Futuna,Accountant,2011-12-25,0,0,0
+CUST000735,Steven Stein,58,Solomon Islands,Financial Analyst,2024-03-21,0,0,0
+CUST000736,Laura Jackson,23,Sri Lanka,Business Owner,2012-11-10,0,0,1
+CUST000737,Charles Turner,69,Guatemala,Retired,2020-02-29,0,0,3
+CUST000738,Arthur Hamilton MD,43,Saudi Arabia,Lawyer,2022-07-12,0,0,3
+CUST000739,Mr. David Wright,81,Oman,Retired,2019-01-13,0,0,1
+CUST000740,Linda Gonzalez,76,Puerto Rico,Sales Representative,2015-05-02,0,0,3
+CUST000741,Eric Rush,73,Bulgaria,Lawyer,2013-06-28,0,0,3
+CUST000742,Manuel Brock,76,Germany,Business Owner,2011-12-30,0,0,2
+CUST000743,George Ochoa,87,Saint Kitts and Nevis,Engineer,2019-01-22,0,0,0
+CUST000744,Valerie Taylor,50,Sri Lanka,Researcher,2013-10-08,0,0,2
+CUST000745,Travis Harris,70,Myanmar,Business Owner,2013-06-10,0,0,4
+CUST000746,Vincent Novak,39,Cameroon,Retired,2014-05-25,0,0,2
+CUST000747,Michael Henry,38,Australia,Doctor,2024-01-23,0,0,1
+CUST000748,Dana Bennett,87,Mauritania,Researcher,2022-05-12,0,0,1
+CUST000749,Jenna Wilson,87,Turkmenistan,Business Owner,2017-11-06,0,0,2
+CUST000750,Leslie Gardner,21,South Sudan,Business Owner,2019-06-24,0,0,1
+CUST000751,Krista Benton,79,Solomon Islands,Doctor,2015-05-19,0,0,0
+CUST000752,Michael Gonzales,79,Azerbaijan,Business Owner,2018-12-28,0,0,1
+CUST000753,Michael Fuentes,41,Lebanon,Researcher,2017-07-31,0,0,3
+CUST000754,Jennifer Porter,72,Uzbekistan,Unemployed,2011-05-28,0,0,3
+CUST000755,Dana Hopkins,26,Gibraltar,Student,2016-03-03,0,0,0
+CUST000756,Rachel Jones,20,Tuvalu,Engineer,2013-11-01,0,0,4
+CUST000757,Karen Morales DDS,48,Argentina,Teacher,2012-01-13,0,0,1
+CUST000758,Melissa Stephens,57,Niue,Engineer,2012-07-16,0,0,2
+CUST000759,Heather Woodard,53,Peru,Government Employee,2016-09-26,0,0,2
+CUST000760,Margaret Miller,41,Zimbabwe,Consultant,2014-11-27,0,0,3
+CUST000761,Mary Kelly,23,Réunion,Financial Analyst,2012-02-08,0,0,4
+CUST000762,Amanda Terrell,83,Denmark,Business Owner,2017-01-11,0,0,1
+CUST000763,Jennifer Goodwin,21,Seychelles,Student,2016-07-22,0,0,3
+CUST000764,Jessica Smith,23,Yemen,Unemployed,2014-04-09,0,0,0
+CUST000765,Jorge Stone,68,Samoa,Lawyer,2018-05-16,0,0,2
+CUST000766,Laura Griffin,79,Kazakhstan,Business Owner,2017-07-28,0,0,2
+CUST000767,Raymond Chapman,74,Liechtenstein,Retired,2018-10-23,0,0,2
+CUST000768,Haley Johnson,83,Guinea-Bissau,IT Professional,2019-04-12,0,0,0
+CUST000769,Jason Nixon,25,Ethiopia,Student,2021-09-28,0,0,3
+CUST000770,Todd Thomas,43,Monaco,Doctor,2020-02-17,0,1,0
+CUST000771,Jesse Clark,68,Dominican Republic,Student,2017-05-16,0,0,0
+CUST000772,Mr. Jeffrey Horton,62,Serbia,Unemployed,2021-10-07,0,0,2
+CUST000773,Eric Patrick,61,Slovakia,Government Employee,2012-06-06,0,0,1
+CUST000774,Samuel Wong,22,Ethiopia,Doctor,2020-04-18,0,0,3
+CUST000775,Carly Riggs,87,"Bonaire, Sint Eustatius and Saba",Sales Representative,2020-02-25,0,0,1
+CUST000776,Christopher Moore,43,Burundi,Teacher,2019-08-06,0,0,0
+CUST000777,Tina Hall,85,Turkmenistan,Manager,2013-08-03,0,0,3
+CUST000778,Cody Davidson,36,Dominican Republic,Researcher,2018-03-31,0,0,1
+CUST000779,Allen Mendez,37,Guernsey,Student,2011-03-24,0,0,0
+CUST000780,Kevin Price,29,Iceland,Researcher,2012-09-06,0,0,2
+CUST000781,Christine Goodwin,64,"Venezuela, Bolivarian Republic of",Accountant,2011-01-24,0,0,1
+CUST000782,Amy Garcia,18,Guam,Retired,2018-02-06,0,0,2
+CUST000783,Chelsea Nguyen,31,Niue,Business Owner,2022-03-12,0,0,1
+CUST000784,Dennis Huffman,81,"Bolivia, Plurinational State of",Retired,2020-02-04,0,0,3
+CUST000785,Margaret Harper,55,American Samoa,Researcher,2017-10-21,0,0,3
+CUST000786,Laurie Bailey,54,Côte d'Ivoire,Engineer,2019-05-07,0,0,2
+CUST000787,Lisa Cervantes,28,Chad,Manager,2016-05-09,0,0,0
+CUST000788,Elizabeth Mendez,20,Brazil,Unemployed,2020-06-04,0,0,3
+CUST000789,Cesar Wilson,50,Hungary,Engineer,2017-09-01,0,0,2
+CUST000790,Clayton Steele,23,Nepal,Sales Representative,2024-02-18,0,0,2
+CUST000791,Jennifer Taylor,67,Macao,Manager,2012-06-20,0,0,1
+CUST000792,Cody Reid,27,American Samoa,Manager,2021-08-11,0,0,3
+CUST000793,Maria Cooke,22,Seychelles,Engineer,2018-04-18,0,0,2
+CUST000794,Katherine Taylor,40,Papua New Guinea,Doctor,2023-06-06,0,0,0
+CUST000795,Jerry Brown,27,Guinea-Bissau,Government Employee,2023-03-24,0,0,1
+CUST000796,Adam Taylor,61,Cocos (Keeling) Islands,Unemployed,2012-01-14,0,0,3
+CUST000797,Tracey Wagner,19,North Macedonia,Researcher,2017-11-23,0,0,0
+CUST000798,Michael Perry PhD,30,France,Engineer,2021-08-13,0,0,4
+CUST000799,Bradley Johnson DDS,57,Kiribati,Retired,2013-06-09,0,0,2
+CUST000800,Donald Medina,19,Cameroon,Doctor,2022-02-23,0,0,2
+CUST000801,Jim Newton,82,Namibia,Retired,2024-03-04,0,0,0
+CUST000802,Krista Wilson,80,Sao Tome and Principe,Unemployed,2011-07-29,0,0,0
+CUST000803,Reginald Morrow,90,United Kingdom,Government Employee,2018-01-26,0,0,4
+CUST000804,Rodney Williams,34,Cuba,Sales Representative,2013-12-02,0,0,0
+CUST000805,Kimberly Fritz,26,Guadeloupe,Business Owner,2013-09-17,0,0,2
+CUST000806,Ronald Potter,32,Greenland,Government Employee,2014-07-27,0,0,1
+CUST000807,Zachary Cole,41,Myanmar,Consultant,2016-10-21,0,0,0
+CUST000808,Robert Gonzales,55,New Caledonia,Lawyer,2020-04-24,0,0,0
+CUST000809,Patricia Young PhD,52,San Marino,Doctor,2023-04-19,0,0,1
+CUST000810,Heather Page,66,Norway,Sales Representative,2018-10-14,0,0,5
+CUST000811,Carol Taylor,86,Namibia,Consultant,2013-09-25,0,0,1
+CUST000812,Daniel Brown,79,Viet Nam,Accountant,2021-11-21,0,0,1
+CUST000813,Douglas Ryan,77,Hong Kong,Sales Representative,2022-12-25,0,0,1
+CUST000814,Michael Roberts,67,Afghanistan,Engineer,2015-06-18,0,0,1
+CUST000815,Scott Duke,26,Trinidad and Tobago,Financial Analyst,2013-06-02,0,0,1
+CUST000816,Anna Estes,51,Brazil,Engineer,2022-10-15,0,0,3
+CUST000817,Tamara Riddle,52,United States Minor Outlying Islands,Government Employee,2011-07-05,0,0,1
+CUST000818,Beth Cline,18,Serbia,Lawyer,2023-03-31,0,0,1
+CUST000819,Michael Poole,57,Malaysia,Sales Representative,2021-01-17,0,0,0
+CUST000820,Megan Burns,81,New Caledonia,Researcher,2021-02-06,0,0,5
+CUST000821,Debra Perry,39,Faroe Islands,Teacher,2011-10-29,0,0,0
+CUST000822,Mark Beard,77,Japan,Business Owner,2017-08-19,0,0,0
+CUST000823,Jose Ramirez,81,Montserrat,Unemployed,2022-07-16,0,0,2
+CUST000824,Jackie Clements,89,Mongolia,Government Employee,2018-11-18,0,0,1
+CUST000825,Aaron Schroeder,28,Indonesia,Engineer,2021-10-16,0,0,1
+CUST000826,Monica Ellis,31,Senegal,Lawyer,2011-12-07,0,0,1
+CUST000827,Heather Brown,77,Niue,Business Owner,2015-02-11,0,0,2
+CUST000828,Claudia Jordan,47,Indonesia,Sales Representative,2010-11-07,0,0,0
+CUST000829,Derrick Clayton,52,Greece,Researcher,2011-01-29,0,0,3
+CUST000830,Kenneth Knight,54,Panama,Sales Representative,2010-07-30,0,0,2
+CUST000831,Mr. Michael Williams,22,Saint Kitts and Nevis,Manager,2019-05-22,0,0,1
+CUST000832,Richard Stevens,43,Viet Nam,Lawyer,2012-09-23,0,0,1
+CUST000833,Scott Alexander,79,Mexico,Consultant,2015-12-01,0,0,0
+CUST000834,Tyler Harris,21,Tunisia,Engineer,2014-05-06,0,0,2
+CUST000835,Bonnie Santos,59,British Indian Ocean Territory,Researcher,2014-07-09,0,0,1
+CUST000836,Timothy Hill,35,Kyrgyzstan,Teacher,2017-10-12,0,0,1
+CUST000837,Danielle Watson,57,Oman,Sales Representative,2011-04-01,0,0,1
+CUST000838,Carol Sanders,89,Cook Islands,Teacher,2014-10-31,0,0,5
+CUST000839,Michael Young,56,Isle of Man,Sales Representative,2017-08-07,0,0,1
+CUST000840,Michele Smith,31,Somalia,Engineer,2011-09-11,0,0,4
+CUST000841,Casey Perez,49,Djibouti,Business Owner,2010-07-09,0,0,1
+CUST000842,Alexandra Dominguez,68,Singapore,Student,2023-02-05,0,0,0
+CUST000843,Virginia Henderson,55,"Korea, Republic of",Business Owner,2010-10-10,0,0,0
+CUST000844,Benjamin Reyes,40,Luxembourg,Sales Representative,2022-03-23,0,0,1
+CUST000845,Ashley Edwards,80,Argentina,Retired,2019-10-15,0,0,0
+CUST000846,Breanna Ayala,32,Albania,Financial Analyst,2019-09-19,0,0,0
+CUST000847,Brandi Haney,42,Finland,IT Professional,2018-07-07,0,0,4
+CUST000848,Joseph Smith,34,Indonesia,Student,2022-08-17,0,0,3
+CUST000849,Jessica Bowen,83,Timor-Leste,Consultant,2020-12-04,0,0,2
+CUST000850,Brittany Jenkins,70,Namibia,Student,2019-01-26,0,0,0
+CUST000851,Shannon Miller,68,Cocos (Keeling) Islands,Financial Analyst,2020-07-20,0,0,0
+CUST000852,Paul Lawrence,56,Jersey,Teacher,2012-01-26,0,0,0
+CUST000853,Victor Edwards,68,Saint Pierre and Miquelon,Lawyer,2022-10-07,0,0,2
+CUST000854,Donald Miller,87,United Arab Emirates,Teacher,2020-12-08,0,0,4
+CUST000855,Lindsay Lawson,23,Ethiopia,Government Employee,2024-05-22,0,0,1
+CUST000856,Melissa Abbott,84,Palau,Teacher,2015-04-15,0,0,0
+CUST000857,Elizabeth Holmes,24,Greenland,Consultant,2014-05-06,1,0,1
+CUST000858,Nicole Phillips,68,Dominica,Retired,2011-02-17,0,0,1
+CUST000859,Steven Blevins,89,Gibraltar,Business Owner,2013-11-28,0,0,1
+CUST000860,Brian Porter MD,59,Dominica,Business Owner,2017-12-01,0,0,2
+CUST000861,Vanessa Hatfield,81,Israel,IT Professional,2023-09-19,0,0,2
+CUST000862,Bonnie Valencia,32,Liberia,Accountant,2019-04-04,0,0,0
+CUST000863,Holly Vega,46,Andorra,Unemployed,2017-12-26,0,0,0
+CUST000864,Tiffany Townsend,50,Somalia,Sales Representative,2018-02-08,0,0,5
+CUST000865,Austin Baker,44,Gibraltar,Unemployed,2014-04-07,0,0,0
+CUST000866,Antonio Mccormick,53,Suriname,Retired,2022-11-07,0,0,0
+CUST000867,Lori Mason,46,Lesotho,Accountant,2019-03-19,0,0,0
+CUST000868,Michael Miller,55,Luxembourg,Financial Analyst,2018-07-07,0,0,0
+CUST000869,Lisa Ramirez,74,Cyprus,Unemployed,2011-03-22,0,0,1
+CUST000870,Jorge Harris,44,Burkina Faso,Unemployed,2020-01-05,0,0,3
+CUST000871,Kimberly Myers,72,Montserrat,Government Employee,2014-11-30,0,0,1
+CUST000872,Sandra Becker,50,Liberia,Engineer,2021-11-15,0,0,1
+CUST000873,Michael Blair,85,Angola,Financial Analyst,2012-03-26,0,0,2
+CUST000874,Amy Miller,83,Liberia,Sales Representative,2019-05-29,0,0,1
+CUST000875,Jesse Lynch,27,Cocos (Keeling) Islands,Unemployed,2021-02-08,0,0,3
+CUST000876,Patrick Yang,22,Réunion,Sales Representative,2018-06-28,0,0,3
+CUST000877,Michael Miles,55,British Indian Ocean Territory,Manager,2021-04-04,0,0,0
+CUST000878,Troy Mills,30,Antigua and Barbuda,Manager,2022-11-06,0,0,2
+CUST000879,Michelle Jackson,48,Somalia,Doctor,2023-02-10,0,0,1
+CUST000880,Richard Adams,64,Slovenia,Financial Analyst,2020-09-22,0,0,5
+CUST000881,Patricia Johnson,69,Yemen,Doctor,2017-07-20,0,0,1
+CUST000882,Denise Brown,73,Antarctica,Teacher,2011-02-07,0,0,5
+CUST000883,Laura Jones,32,Gambia,Engineer,2011-09-07,0,0,2
+CUST000884,Ian Porter,46,Antarctica,Student,2017-12-22,0,0,0
+CUST000885,Holly Scott,25,Madagascar,IT Professional,2014-08-07,0,0,1
+CUST000886,Kenneth Sharp,22,Bahrain,Student,2021-08-29,0,0,5
+CUST000887,Jordan Williams,46,Côte d'Ivoire,IT Professional,2013-12-08,0,0,3
+CUST000888,Dana Ruiz,64,Vanuatu,Manager,2017-08-17,0,0,0
+CUST000889,Chris Velazquez,85,Saint Kitts and Nevis,Manager,2015-06-03,0,0,2
+CUST000890,Kristen Sloan,62,Malta,Manager,2018-05-05,0,0,1
+CUST000891,Jennifer Morris,19,Curaçao,Retired,2013-03-23,0,0,0
+CUST000892,Nathan Nelson,44,Saint Vincent and the Grenadines,Lawyer,2012-05-03,0,0,1
+CUST000893,Jake Shaw,53,Croatia,IT Professional,2013-05-16,0,0,0
+CUST000894,Cassie Brock,53,Pakistan,Financial Analyst,2014-08-18,0,0,3
+CUST000895,Dr. Andrea Marshall,43,Macao,Doctor,2022-08-24,0,0,1
+CUST000896,Ryan Murphy,60,Tokelau,Retired,2011-01-13,0,0,3
+CUST000897,Aimee Gonzalez,44,Kyrgyzstan,Business Owner,2023-07-22,0,0,0
+CUST000898,Elizabeth Dean,86,Costa Rica,Student,2014-10-04,0,0,1
+CUST000899,Kevin Snyder,37,Portugal,Government Employee,2017-03-21,0,0,0
+CUST000900,Christie Mccullough,28,"Bolivia, Plurinational State of",Consultant,2010-11-28,0,0,0
+CUST000901,Danielle Smith,55,Comoros,Sales Representative,2018-10-31,0,0,0
+CUST000902,David Reed,23,China,Doctor,2023-11-14,0,0,0
+CUST000903,Sherry Tapia,89,Guernsey,Accountant,2022-05-26,1,0,1
+CUST000904,Matthew Sweeney,40,Svalbard and Jan Mayen,Researcher,2019-04-25,0,0,0
+CUST000905,Ashley Moreno,64,Mali,Business Owner,2011-07-19,0,0,1
+CUST000906,Johnathan Brown,63,Sweden,Unemployed,2011-04-13,0,0,1
+CUST000907,Michelle Davis DVM,29,Mongolia,Financial Analyst,2023-12-26,0,0,3
+CUST000908,Kelly Haynes,30,Bouvet Island,Unemployed,2018-05-28,0,0,4
+CUST000909,William Miller,79,Guyana,Unemployed,2011-07-11,0,0,1
+CUST000910,Casey Wilkins,77,Christmas Island,Unemployed,2023-07-19,1,0,1
+CUST000911,Keith Graham,60,India,Government Employee,2020-07-08,0,0,0
+CUST000912,Cynthia Green,85,Czechia,Doctor,2013-11-23,1,0,4
+CUST000913,Robert Haynes,22,Sri Lanka,Consultant,2012-10-22,0,0,0
+CUST000914,Emily Nelson,54,Mauritius,Retired,2014-07-13,0,0,0
+CUST000915,Dale Chan,89,San Marino,Financial Analyst,2018-03-18,0,0,0
+CUST000916,Brittney Martin,48,Vanuatu,Engineer,2020-05-18,0,0,1
+CUST000917,Jason Herrera,26,Brunei Darussalam,Sales Representative,2011-04-27,0,0,0
+CUST000918,Christine Parker,68,Romania,Doctor,2014-09-03,0,0,2
+CUST000919,Bryan Moore,46,Guatemala,Lawyer,2013-06-02,1,0,0
+CUST000920,Samantha Terry,57,"Korea, Democratic People's Republic of",Manager,2022-05-27,0,0,2
+CUST000921,Russell Murphy,58,Rwanda,Manager,2013-11-27,0,0,0
+CUST000922,David Kelly,28,Sao Tome and Principe,Sales Representative,2016-08-23,0,0,0
+CUST000923,Megan Green,40,Hong Kong,Consultant,2015-04-16,0,0,4
+CUST000924,Amanda Sullivan MD,18,Latvia,IT Professional,2016-12-21,0,0,0
+CUST000925,Danielle Murray,63,France,Government Employee,2017-03-31,0,0,3
+CUST000926,Brenda Smith,38,Cook Islands,Retired,2022-02-07,0,0,1
+CUST000927,Vickie Anderson,53,French Guiana,Manager,2020-11-03,0,0,0
+CUST000928,Jacqueline Mccoy,71,Sint Maarten (Dutch part),Doctor,2017-01-19,0,0,4
+CUST000929,Lauren Green,74,Mayotte,Accountant,2015-03-20,0,0,0
+CUST000930,Alison Brown,18,French Polynesia,Student,2013-05-03,0,0,3
+CUST000931,Jill Anderson,80,Romania,IT Professional,2017-12-25,0,0,0
+CUST000932,Sandra Rivera,71,Bulgaria,Student,2015-06-20,0,0,3
+CUST000933,Joel Jackson,72,Myanmar,Business Owner,2012-02-10,0,0,0
+CUST000934,Samantha Foster,57,Bouvet Island,Government Employee,2023-08-17,0,0,1
+CUST000935,Michael Thompson,32,Anguilla,Unemployed,2014-04-01,0,0,2
+CUST000936,Cody Ramirez,38,Tajikistan,Teacher,2022-06-22,0,0,4
+CUST000937,Amanda Harvey,64,"Iran, Islamic Republic of",IT Professional,2017-05-24,0,0,4
+CUST000938,Edward Jenkins,90,Lebanon,Engineer,2018-10-15,0,0,3
+CUST000939,Amy Ramirez,70,Benin,Sales Representative,2017-03-13,0,0,3
+CUST000940,Curtis Wilkerson,26,Réunion,Business Owner,2021-11-06,0,0,0
+CUST000941,Lydia Pham,69,Mozambique,Teacher,2015-05-20,0,0,0
+CUST000942,Virginia Casey,74,Colombia,Retired,2012-11-27,0,0,0
+CUST000943,Joshua Washington,43,Philippines,Unemployed,2024-06-03,0,0,1
+CUST000944,Kathryn Price,58,Papua New Guinea,IT Professional,2012-04-12,0,0,1
+CUST000945,Francis Robinson,52,Guyana,Lawyer,2014-02-01,0,0,1
+CUST000946,Paula Brown,80,India,Lawyer,2015-03-07,0,0,0
+CUST000947,Kendra Wang DVM,42,Nigeria,Engineer,2023-03-26,0,0,2
+CUST000948,Ariel Sandoval,55,Kazakhstan,Government Employee,2020-03-29,0,0,0
+CUST000949,Robert Stark,19,Heard Island and McDonald Islands,Manager,2012-10-26,0,0,1
+CUST000950,Zachary Robinson,24,Tuvalu,Financial Analyst,2016-05-02,0,0,1
+CUST000951,Rebecca Kelly,51,Ecuador,Doctor,2010-06-26,0,0,2
+CUST000952,Sarah Thompson,34,Gabon,Business Owner,2013-04-08,0,0,2
+CUST000953,Renee Wolfe,60,Niger,Researcher,2014-07-14,0,0,2
+CUST000954,Alyssa Haynes,76,Nigeria,IT Professional,2023-04-17,0,0,0
+CUST000955,Kristy Hart,68,Albania,Business Owner,2019-11-19,0,0,1
+CUST000956,William Keith,71,Central African Republic,IT Professional,2018-06-17,0,0,0
+CUST000957,Eric Henry Jr.,41,Nauru,Sales Representative,2012-02-17,1,0,1
+CUST000958,Daniel Fox,42,Vanuatu,IT Professional,2021-07-05,0,0,1
+CUST000959,Thomas Harris,88,Jordan,Sales Representative,2017-12-27,0,0,0
+CUST000960,Mitchell Sellers,69,French Polynesia,IT Professional,2014-08-15,0,0,0
+CUST000961,Erica Johnson,87,Yemen,Lawyer,2013-07-30,0,0,4
+CUST000962,Sylvia Schroeder,50,Lao People's Democratic Republic,Lawyer,2021-09-22,0,0,4
+CUST000963,Shannon Yu,66,Antarctica,Government Employee,2023-10-20,0,0,1
+CUST000964,Tom Foster,46,Sri Lanka,Unemployed,2010-10-17,0,0,0
+CUST000965,Eric Taylor,80,Holy See (Vatican City State),Consultant,2019-01-30,0,0,0
+CUST000966,Travis Conner,39,Burundi,Unemployed,2020-11-23,0,0,1
+CUST000967,Marie Thompson,43,Canada,Accountant,2017-06-24,0,0,4
+CUST000968,Melissa Mcfarland,45,"Bonaire, Sint Eustatius and Saba",Accountant,2012-02-04,0,0,0
+CUST000969,Courtney Chapman,66,Mexico,Consultant,2024-02-21,0,0,2
+CUST000970,Eric Barker,88,Trinidad and Tobago,Manager,2012-01-23,0,0,0
+CUST000971,Nicholas Rush,66,Honduras,Accountant,2015-04-19,0,0,5
+CUST000972,Jenna Gamble,37,Bahamas,Government Employee,2022-05-11,0,0,1
+CUST000973,Amanda Guzman,80,United Arab Emirates,Researcher,2019-05-30,0,0,2
+CUST000974,Tracy Walker,78,Croatia,Researcher,2021-11-26,0,0,1
+CUST000975,Taylor Taylor,66,"Virgin Islands, British",Doctor,2014-02-05,0,0,2
+CUST000976,Cynthia Haas,88,Turkmenistan,Doctor,2021-10-24,0,0,0
+CUST000977,Stephen Davis,18,Gambia,Researcher,2020-12-29,0,0,0
+CUST000978,Margaret Tanner,30,Switzerland,Business Owner,2013-04-09,0,0,4
+CUST000979,Derek Wright,68,Oman,Financial Analyst,2017-11-26,0,0,4
+CUST000980,David Rodriguez,73,Antigua and Barbuda,Student,2013-01-13,0,0,3
+CUST000981,James Oconnor,79,"Micronesia, Federated States of",Consultant,2018-04-26,0,0,2
+CUST000982,Stacey Snyder,49,Afghanistan,Doctor,2015-02-17,0,0,3
+CUST000983,Joshua Garcia,47,Kyrgyzstan,Financial Analyst,2013-08-17,0,0,0
+CUST000984,Sean Curtis,46,Bouvet Island,Financial Analyst,2013-11-09,0,0,1
+CUST000985,Carla Jones,66,Western Sahara,Teacher,2018-12-25,0,0,1
+CUST000986,Elizabeth Flores,62,Niue,Lawyer,2014-03-16,0,0,2
+CUST000987,Angela Jackson,47,Holy See (Vatican City State),Sales Representative,2012-02-01,0,0,1
+CUST000988,Nicholas Payne,33,Cocos (Keeling) Islands,Government Employee,2021-03-16,0,0,0
+CUST000989,Anna Wheeler,57,Dominica,Researcher,2015-11-05,0,0,1
+CUST000990,Karen Johnson,36,Yemen,Accountant,2020-03-04,0,0,3
+CUST000991,Carmen Preston,35,Germany,Consultant,2011-01-02,0,0,1
+CUST000992,Brian Harris,18,Lao People's Democratic Republic,Business Owner,2013-01-18,0,0,0
+CUST000993,Michael Bowen,64,Israel,Researcher,2021-05-21,0,0,0
+CUST000994,Deborah Campbell,83,Antigua and Barbuda,Engineer,2022-11-19,0,0,0
+CUST000995,Anthony Armstrong,55,Zambia,Sales Representative,2018-04-02,0,0,0
+CUST000996,Brittany Ward,68,Uganda,Teacher,2015-02-21,0,0,2
+CUST000997,Edward Stanley,80,Chad,Financial Analyst,2016-10-28,0,0,2
+CUST000998,Christina Johnson,21,Gibraltar,Accountant,2013-01-22,0,0,2
+CUST000999,Edgar Miller,18,Liechtenstein,Teacher,2018-06-16,0,0,1
+CUST001000,Elizabeth Sanders,25,Uganda,Lawyer,2024-05-22,0,0,3

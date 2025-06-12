@@ -1,0 +1,250 @@
+country_code,country_name,risk_rating
+AW,Aruba,low
+AF,Afghanistan,low
+AO,Angola,medium
+AI,Anguilla,low
+AX,Åland Islands,medium
+AL,Albania,low
+AD,Andorra,medium
+AE,United Arab Emirates,low
+AR,Argentina,low
+AM,Armenia,low
+AS,American Samoa,high
+AQ,Antarctica,low
+TF,French Southern Territories,high
+AG,Antigua and Barbuda,medium
+AU,Australia,medium
+AT,Austria,medium
+AZ,Azerbaijan,low
+BI,Burundi,low
+BE,Belgium,low
+BJ,Benin,medium
+BQ,"Bonaire, Sint Eustatius and Saba",medium
+BF,Burkina Faso,low
+BD,Bangladesh,low
+BG,Bulgaria,low
+BH,Bahrain,low
+BS,Bahamas,low
+BA,Bosnia and Herzegovina,low
+BL,Saint Barthélemy,low
+BY,Belarus,low
+BZ,Belize,low
+BM,Bermuda,low
+BO,"Bolivia, Plurinational State of",low
+BR,Brazil,low
+BB,Barbados,low
+BN,Brunei Darussalam,low
+BT,Bhutan,low
+BV,Bouvet Island,low
+BW,Botswana,medium
+CF,Central African Republic,low
+CA,Canada,low
+CC,Cocos (Keeling) Islands,low
+CH,Switzerland,low
+CL,Chile,medium
+CN,China,low
+CI,Côte d'Ivoire,low
+CM,Cameroon,low
+CD,"Congo, The Democratic Republic of the",low
+CG,Congo,low
+CK,Cook Islands,low
+CO,Colombia,low
+KM,Comoros,low
+CV,Cabo Verde,low
+CR,Costa Rica,medium
+CU,Cuba,low
+CW,Curaçao,low
+CX,Christmas Island,low
+KY,Cayman Islands,low
+CY,Cyprus,medium
+CZ,Czechia,low
+DE,Germany,low
+DJ,Djibouti,low
+DM,Dominica,low
+DK,Denmark,low
+DO,Dominican Republic,medium
+DZ,Algeria,medium
+EC,Ecuador,low
+EG,Egypt,high
+ER,Eritrea,low
+EH,Western Sahara,medium
+ES,Spain,medium
+EE,Estonia,low
+ET,Ethiopia,low
+FI,Finland,high
+FJ,Fiji,low
+FK,Falkland Islands (Malvinas),low
+FR,France,low
+FO,Faroe Islands,medium
+FM,"Micronesia, Federated States of",high
+GA,Gabon,low
+GB,United Kingdom,medium
+GE,Georgia,low
+GG,Guernsey,high
+GH,Ghana,low
+GI,Gibraltar,low
+GN,Guinea,low
+GP,Guadeloupe,low
+GM,Gambia,low
+GW,Guinea-Bissau,medium
+GQ,Equatorial Guinea,low
+GR,Greece,high
+GD,Grenada,low
+GL,Greenland,low
+GT,Guatemala,low
+GF,French Guiana,medium
+GU,Guam,low
+GY,Guyana,medium
+HK,Hong Kong,high
+HM,Heard Island and McDonald Islands,low
+HN,Honduras,low
+HR,Croatia,medium
+HT,Haiti,medium
+HU,Hungary,low
+ID,Indonesia,low
+IM,Isle of Man,low
+IN,India,low
+IO,British Indian Ocean Territory,low
+IE,Ireland,low
+IR,"Iran, Islamic Republic of",low
+IQ,Iraq,low
+IS,Iceland,high
+IL,Israel,medium
+IT,Italy,high
+JM,Jamaica,medium
+JE,Jersey,low
+JO,Jordan,medium
+JP,Japan,high
+KZ,Kazakhstan,high
+KE,Kenya,low
+KG,Kyrgyzstan,low
+KH,Cambodia,low
+KI,Kiribati,low
+KN,Saint Kitts and Nevis,high
+KR,"Korea, Republic of",low
+KW,Kuwait,medium
+LA,Lao People's Democratic Republic,low
+LB,Lebanon,low
+LR,Liberia,low
+LY,Libya,low
+LC,Saint Lucia,low
+LI,Liechtenstein,low
+LK,Sri Lanka,low
+LS,Lesotho,medium
+LT,Lithuania,low
+LU,Luxembourg,medium
+LV,Latvia,low
+MO,Macao,low
+MF,Saint Martin (French part),low
+MA,Morocco,medium
+MC,Monaco,low
+MD,"Moldova, Republic of",low
+MG,Madagascar,high
+MV,Maldives,low
+MX,Mexico,low
+MH,Marshall Islands,medium
+MK,North Macedonia,low
+ML,Mali,low
+MT,Malta,low
+MM,Myanmar,low
+ME,Montenegro,low
+MN,Mongolia,low
+MP,Northern Mariana Islands,medium
+MZ,Mozambique,low
+MR,Mauritania,low
+MS,Montserrat,medium
+MQ,Martinique,low
+MU,Mauritius,medium
+MW,Malawi,medium
+MY,Malaysia,low
+YT,Mayotte,low
+NA,Namibia,high
+NC,New Caledonia,high
+NE,Niger,low
+NF,Norfolk Island,low
+NG,Nigeria,low
+NI,Nicaragua,low
+NU,Niue,low
+NL,Netherlands,low
+NO,Norway,medium
+NP,Nepal,low
+NR,Nauru,medium
+NZ,New Zealand,low
+OM,Oman,low
+PK,Pakistan,low
+PA,Panama,low
+PN,Pitcairn,low
+PE,Peru,medium
+PH,Philippines,low
+PW,Palau,medium
+PG,Papua New Guinea,low
+PL,Poland,low
+PR,Puerto Rico,low
+KP,"Korea, Democratic People's Republic of",medium
+PT,Portugal,low
+PY,Paraguay,low
+PS,"Palestine, State of",high
+PF,French Polynesia,medium
+QA,Qatar,low
+RE,Réunion,medium
+RO,Romania,low
+RU,Russian Federation,medium
+RW,Rwanda,low
+SA,Saudi Arabia,low
+SD,Sudan,low
+SN,Senegal,low
+SG,Singapore,low
+GS,South Georgia and the South Sandwich Islands,medium
+SH,"Saint Helena, Ascension and Tristan da Cunha",medium
+SJ,Svalbard and Jan Mayen,low
+SB,Solomon Islands,low
+SL,Sierra Leone,low
+SV,El Salvador,low
+SM,San Marino,high
+SO,Somalia,low
+PM,Saint Pierre and Miquelon,low
+RS,Serbia,low
+SS,South Sudan,low
+ST,Sao Tome and Principe,low
+SR,Suriname,low
+SK,Slovakia,low
+SI,Slovenia,low
+SE,Sweden,low
+SZ,Eswatini,low
+SX,Sint Maarten (Dutch part),low
+SC,Seychelles,medium
+SY,Syrian Arab Republic,low
+TC,Turks and Caicos Islands,high
+TD,Chad,low
+TG,Togo,low
+TH,Thailand,low
+TJ,Tajikistan,low
+TK,Tokelau,high
+TM,Turkmenistan,low
+TL,Timor-Leste,low
+TO,Tonga,high
+TT,Trinidad and Tobago,low
+TN,Tunisia,low
+TR,Türkiye,low
+TV,Tuvalu,low
+TW,"Taiwan, Province of China",low
+TZ,"Tanzania, United Republic of",low
+UG,Uganda,medium
+UA,Ukraine,medium
+UM,United States Minor Outlying Islands,low
+UY,Uruguay,low
+US,United States,low
+UZ,Uzbekistan,low
+VA,Holy See (Vatican City State),low
+VC,Saint Vincent and the Grenadines,medium
+VE,"Venezuela, Bolivarian Republic of",medium
+VG,"Virgin Islands, British",low
+VI,"Virgin Islands, U.S.",low
+VN,Viet Nam,low
+VU,Vanuatu,low
+WF,Wallis and Futuna,low
+WS,Samoa,low
+YE,Yemen,low
+ZA,South Africa,low
+ZM,Zambia,low
+ZW,Zimbabwe,high

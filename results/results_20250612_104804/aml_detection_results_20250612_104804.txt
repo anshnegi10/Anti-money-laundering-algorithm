@@ -1,0 +1,54 @@
+================================================================================
+AML RISK DETECTION MODEL RESULTS
+================================================================================
+
+Report generated: 2025-06-12 10:48:10
+
+Model type: RandomForestClassifier
+
+----------------------------------------
+PERFORMANCE METRICS
+----------------------------------------
+
+Precision:    0.6591
+Recall:       0.6444
+F1 Score:     0.6517
+ROC AUC:      0.9467
+PR AUC:       0.6617
+
+----------------------------------------
+CLASSIFICATION REPORT
+----------------------------------------
+
+              precision    recall  f1-score   support
+
+           0       0.94      0.94      0.94       255
+           1       0.66      0.64      0.65        45
+
+    accuracy                           0.90       300
+   macro avg       0.80      0.79      0.80       300
+weighted avg       0.90      0.90      0.90       300
+
+----------------------------------------
+CONFUSION MATRIX
+----------------------------------------
+
+                  Predicted
+                  Not Suspicious  Suspicious
+Actual Not Suspicious  240            15
+      Suspicious      16            29
+
+----------------------------------------
+VISUALIZATIONS
+----------------------------------------
+
+Confusion Matrix: c:\Users\anshn\OneDrive\Desktop\python\Anti-money-laundering-algorithm-main\Anti-money-laundering-algorithm-main\results\results_20250612_104804\confusion_matrix.png
+Roc Curve: c:\Users\anshn\OneDrive\Desktop\python\Anti-money-laundering-algorithm-main\Anti-money-laundering-algorithm-main\results\results_20250612_104804\roc_curve.png
+Pr Curve: c:\Users\anshn\OneDrive\Desktop\python\Anti-money-laundering-algorithm-main\Anti-money-laundering-algorithm-main\results\results_20250612_104804\pr_curve.png
+Feature Importance: c:\Users\anshn\OneDrive\Desktop\python\Anti-money-laundering-algorithm-main\Anti-money-laundering-algorithm-main\results\results_20250612_104804\feature_importance_20250612_104804.png
+
+----------------------------------------
+SUSPICIOUS TRANSACTIONS
+----------------------------------------
+
+List of flagged suspicious transactions saved to: c:\Users\anshn\OneDrive\Desktop\python\Anti-money-laundering-algorithm-main\Anti-money-laundering-algorithm-main\results\results_20250612_104804\suspicious_transactions_20250612_104804.csv
